@@ -16,7 +16,7 @@ Graphing linear equations is an essential skill in algebra, enabling students to
 
 ## Part 1: Understanding Solutions to Linear Equations
 
-### Example 1: Equation \( y = 2x + 3 \)
+### Example 1: Equation $$ y = 2x + 3 $$
 
 - **Solution Check**: 
   - Is \( (1, 5) \) a solution? \( y = 2(1) + 3 = 5 \). Yes, since \( 5 = 5 \).
