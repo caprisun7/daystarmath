@@ -19,7 +19,7 @@ Graphing linear equations is an essential skill in algebra, enabling students to
 ### Example 1: Equation $$ y = 2x + 3 $$
 
 - **Solution Check**: 
-  - Is \( (1, 5) \) a solution? \( y = 2(1) + 3 = 5 \). Yes, since \( 5 = 5 \).
+  - Is $ (1, 5) $ a solution? \( y = 2(1) + 3 = 5 \). Yes, since \( 5 = 5 \).
   - Is \( (0, 3) \) a solution? \( y = 2(0) + 3 = 3 \). Yes, since \( 3 = 3 \).
 - **Non-Solution Check**: 
   - Is \( (2, 5) \) a solution? \( y = 2(2) + 3 = 7 \). No, since \( 5 \neq 7 \).
