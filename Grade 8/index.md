@@ -1,3 +1,4 @@
+---
 layout: default
 title: Grade 8 Higher
 permalink: "/grade8"
