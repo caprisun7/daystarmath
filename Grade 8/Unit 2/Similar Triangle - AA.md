@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Similar Triangle - AA
+title: Similar Triangle - AA Criteria
 permalink: "/grade8/SimilarTriangleAA"
 parent: Unit 2
 grand_parent: Grade 8 Higher
@@ -69,7 +69,7 @@ Show that triangle ABE is similar to triangle ACD?
 - Triangles ABE and ACD share vertex A.
 - It is given that angles ∠AEB and ∠BCD are equal.
 
-**Prove of Similarity**:
+**Proof of Similarity**:
 1. Given ∠AEB is equal to ∠BCD.
 3. The angle ∠BAE is common to both triangles ABE and ACD.
 4. Having established two pairs of angles as equal, by the Angle-Angle (AA) criterion, we can conclude that ΔABE ~ ΔACD.
