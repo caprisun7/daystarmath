@@ -1,5 +1,5 @@
 ---
-layout: default
+//layout: default
 title: Similar Triangle - AA Criteria
 permalink: "/grade8/SimilarTriangleAA"
 //parent: Unit 2

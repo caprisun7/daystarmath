@@ -6,6 +6,7 @@ parent: Unit 3
 grand_parent: Grade 8 Higher
 nav_order: 4
 ---
+
 # Lecture Note: Solving Quadratic Exponential Equations
 
 ## Objective
