@@ -2,9 +2,9 @@
 layout: default
 title: Similar Triangle - AA Criteria
 permalink: "/grade8/SimilarTriangleAA"
-parent: Unit 2
-grand_parent: Grade 8 Higher
-nav_order: 6
+//parent: Unit 2
+//grand_parent: Grade 8 Higher
+//nav_order: 6
 ---
 
 ## Introduction to Similar Triangles and the AA Criteria

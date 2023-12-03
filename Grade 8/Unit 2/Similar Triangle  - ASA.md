@@ -2,9 +2,9 @@
 layout: default
 title: Similar Triangle - ASA Criteria
 permalink: "/grade8/SimilarTriangleASA"
-parent: Unit 2
-grand_parent: Grade 8 Higher
-nav_order: 7
+//parent: Unit 2
+//grand_parent: Grade 8 Higher
+//nav_order: 7
 ---
 # Triangle Similarity: SAS Criterion
 

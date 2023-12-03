@@ -1,0 +1,247 @@
+---
+layout: default
+title: Quadratic Exponential Equations
+permalink: "/grade8/QuadraticExponentialEquations"
+parent: Unit 3
+grand_parent: Grade 8 Higher
+nav_order: 4
+---
+# Lecture Note: Solving Quadratic Exponential Equations
+
+## Objective
+To understand and solve quadratic exponential equations using suitable substitutions and factoring.
+
+---
+
+## Example 1
+**Question:** Solve the equation $$ 2(9^{x-1}) - 5(3^x) = 27 $$.
+
+### Solution:
+
+1. Write the equation:
+   $$ 2(9^{x-1}) - 5(3^x) = 27 $$
+
+2. Simplify the base:
+   $$ 2\left(\frac{3^{2x}}{9}\right) - 5(3^x) = 27 $$
+
+3. Recognize that $$ 9 = 3^2 $$ and simplify:
+   $$ \frac{2}{9}(3^x)^2 - 5(3^x) = 27 $$
+
+4. Let $$ a = 3^x $$:
+   $$ \frac{2}{9}a^2 - 5a = 27 $$
+
+5. Multiply through by 9 to clear the fraction:
+   $$ 2a^2 - 45a = 243 $$
+
+6. Rearrange into a quadratic equation:
+   $$ 2a^2 - 45a - 243 = 0 $$
+
+7. Factor the quadratic equation:
+   $$ (2a + 9)(a - 27) = 0 $$
+
+8. Solve for $$ a $$:
+   $$ 2a + 9 = 0 \quad \text{or} \quad a - 27 = 0 $$
+
+   $$ a = -\frac{9}{2} \quad \quad \quad a = 27 $$
+
+9. Solve for $$ x $$ using $$ a = 3^x $$:
+   $$ 3^x = 27 $$
+
+   $$ 3^x = 3^3 $$
+
+   $$ x = 3 $$
+
+**Conclusion:** Since $$ 3^x > 0 $$, $$ x = 3 $$.
+
+---
+
+## Example 2
+**Question:** By using a suitable substitution, solve the equation $$ 2^{3+2x} + 2^{5+x} = 2^x + 4 $$.
+
+### Solution:
+
+1. Write the equation:
+   $$ 2^{3+2x} + 2^{5+x} = 2^x + 4 $$
+
+2. Express each term with the same base where possible:
+   $$ 2^3 \cdot (2^x)^2 + 2^5 \cdot 2^x = 2^x + 4 $$
+
+3. Simplify the coefficients:
+   $$ 8(2^x)^2 + 32(2^x) = 2^x + 4 $$
+
+4. Let $$ y = 2^x $$:
+   $$ 8y^2 + 32y = y + 4 $$
+
+5. Rearrange into a quadratic equation:
+   $$ 8y^2 + 31y - 4 = 0 $$
+
+6. Factor the quadratic equation:
+   $$ (8y - 1)(y + 4) = 0 $$
+
+7. Solve for $$ y $$:
+   $$ 8y - 1 = 0 \quad \text{or} \quad y + 4 = 0 $$
+
+   $$ y = \frac{1}{8} \quad \quad \quad \text{(No Solution for } y = -4 \text{)} $$
+
+8. Solve for $$ x $$ using $$ y = 2^x $$:
+   $$ 2^x = \frac{1}{8} $$
+
+   $$ 2^x = 2^{-3} $$
+
+   $$ x = -3 $$
+
+**Conclusion:** The solution for $$ x $$ is $$ x = -3 $$, since $$ 2^x $$ cannot be negative.
+
+---
+
+## Self-Explanation Prompts
+
+1. Why do we let $$ a = 3^x $$ and $$ y = 2^x $$ in these examples?
+2. What are the benefits of making a substitution in exponential equations?
+3. How do we know that $$ 3^x $$ and $$ 2^x $$ are always positive?
+4. Why is there no solution for $$ 3^x = -\frac{9}{2} $$ and $$ 2^x = -4 $$?
+5. Can you explain the importance of factoring in solving quadratic equations?
+6. What makes an exponential equation quadratic?
+
+### Answers to Self-Explanation Prompts
+
+1. We let $$ a = 3^x $$ and $$ y = 2^x $$ to transform the exponential equations into quadratic ones, which are more straightforward to solve.
+2. Substitution simplifies the equations, reducing them from exponential forms to polynomial forms that are typically easier to solve.
+3. Functions like $$ 3^x $$ and $$ 2^x $$ are exponential functions with positive bases, which means they grow exponentially and can never reach zero or negative values.
+4. There are no solutions for $$ 3^x = -\frac{9}{2} $$ and $$ 2^x = -4 $$ because exponential functions with positive bases cannot yield negative results.
+5. Factoring is crucial as it allows us to break down the quadratic equation into simpler parts that can be solved individually, revealing the possible values of $$ x $$.
+6. An exponential equation becomes quadratic when the exponent contains a variable that, when expressed in terms of another variable, forms a quadratic relationship (like $$ a^2 $$, $$ ay $$, or $$ y^2 $$) in the resulting polynomial equation.
+
+## Solving Exponential Quadratic Equations
+
+### Questions with Answers
+
+**Question 1:**  
+Use an appropriate substitution, or otherwise, solve $$ 7^{2x+1} + 20(7^x) = 3 $$.  
+_Answer:_ $$ x = -1 $$
+
+**Question 2:**  
+By using the substitution $$ u = 3^x $$, find the values of x such that $$ 3^{2x} - 3^{x+2} = 3^x - 9 $$.  
+_Answer:_ $$ x = 0 $$ or $$ x = 2 $$
+
+**Question 3:**  
+Solve the equation $$ 5^{x+1} = 8 + 4(5^{-x}) $$.  
+_Answer:_ $$ x = 0.431 $$
+
+**Question 4:**  
+Solve $$ 2^{x+1} - 24\sqrt{2^x} + 64 = 0 $$.  
+_Answer:_ $$ x = 4 $$ or $$ x = 6 $$
+
+**Question 5:**  
+Solve the equation $$ \sqrt[3]{27 \cdot 27^{2x+3}} = \frac{1}{3^{x-2} \cdot 9^{3x}} $$.  
+_Answer:_ $$ x = -\frac{1}{4} $$
+
+**Question 6:**  
+Solve the equation $$ \frac{3^{2(x+1)}}{9^{x+2}} = \frac{27^x}{3} $$.  
+_Answer:_ $$ x = -\frac{1}{3} $$
+
+**Question 7:**  
+Solve the equation $$ 4^{3x-2} = \left(\frac{1}{8}\right)^{x-1} $$.  
+_Answer:_ $$ x = \frac{7}{9} $$
+
+---
+
+### Solutions
+
+**Solution to Question 1:**
+$$
+7^{2x+1} + 20(7^x) = 3 \\
+7^{2x} \cdot 7^1 + 20(7^x) - 3 = 0 \\
+7(7^x)^2 + 20(7^x) - 3 = 0 \\
+
+Let u = 7^x. \\
+7u^2 + 20u - 3 = 0 \\
+(7u - 1)(u + 3) = 0 \\
+
+u = \frac{1}{7} \text{ or } u = -3 \text{ (no solution, reject)} \\
+
+7^x = 7^{-1} \\
+x = -1
+$$
+
+**Solution to Question 2:**
+$$
+3^{2x} - 3^{x+2} = 3^x - 9 \\
+(3^x)^2 - 3^2 \cdot 3^x = 3^x - 9 \\
+(3^x)^2 - 9(3^x) = 3^x - 9 \\
+
+Let u = 3^x. \\
+u^2 - 9u = u - 9 \\
+u^2 - 10u + 9 = 0 \\
+(u - 9)(u - 1) = 0 \\
+
+u = 9 \text{ or } u = 1 \\
+3^x = 3^2 \text{ or } 3^x = 3^0 \\
+x = 2 \text{ or } x = 0 \\
+
+Hence, x = 0 or x = 2.
+$$
+
+**Solution to Question 3:**
+$$
+5^{x+1} = 8 + 4(5^{-x}) \\
+5(5^x) = 8 + 4(5^x)^{-1} \\
+
+Let u = 5^x. \\
+5u = 8 + \frac{4}{u} \\
+5u^2 = 8u + 4 \\
+(5u + 2)(u - 2) = 0 \\
+
+u = \frac{-2}{5} \text{ (rejected)} \text{ or } u = 2 \\
+
+5^x = 2 \\
+x \approx 0.431
+$$
+
+**Solution to Question 4:**
+$$
+2^{x+1} - 24\sqrt{2^x} + 64 = 0 \\
+2 \cdot (2^{\frac{x}{2}})^2 - 24 \cdot 2^{\frac{x}{2}} + 64 = 0 \\
+(2^{\frac{x}{2}})^2 - 12 \cdot 2^{\frac{x}{2}} + 32 = 0 \\
+
+Let y = 2^{\frac{x}{2}}. \\
+y^2 - 12y + 32 = 0 \\
+(y - 4)(y - 8) = 0 \\
+
+y = 4 \text{ or } y = 8 \\
+2^{\frac{x}{2}} = 4 \text{ or } 2^{\frac{x}{2}} = 8 \\
+\frac{x}{2} = 2 \text{ or } \frac{x}{2} = 3 \\
+
+Hence, x = 4 or x = 6.
+$$
+
+**Solution to Question 5:**
+$$
+\sqrt[3]{27 \cdot 27^{2x+3}} = \frac{1}{3^{x-2} \cdot 9^{3x}} \\
+(3^3)^{2x+3 \cdot \frac{1}{3}} = \frac{1}{3^{x-2} \cdot (3^2)^{3x}} \\
+3^{\frac{6x+9}{2}} = \frac{1}{3^{x-2} \cdot 3^{6x}} \\
+\frac{3^{6x+9}}{3^2} = \frac{1}{3^{7x-2}} \\
+3^{\frac{6x+9}{2} + 7x - 2} = 3^0 \\
+
+20x + 5 = 0 \\
+x = -\frac{1}{4}
+$$
+
+**Solution to Question 6:**
+$$
+\frac{3^{2(x+1)}}{9^{x+2}} = \frac{27^x}{3} \\
+\frac{3^{2x+2}}{3^{2x+4}} = \frac{3^{3x}}{3} \\
+3^{2x+2 - 2x-4} = 3^{3x-1} \\
+
+3x - 1 = -2 \\
+x = -\frac{1}{3}
+$$
+
+**Solution to Question 7:**
+$$
+4^{3x-2} = \left(\frac{1}{8}\right)^{x-1} \\
+2^{2(3x-2)} = (2^3)^{-x+1} \\
+6x - 4 = -3x + 3 \\
+
+x = \frac{7}{9}
+$$
