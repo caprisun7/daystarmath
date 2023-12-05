@@ -155,16 +155,20 @@ Expand and simplify $$ (m^2 - 9)(2m + 1) $$.
 Here are the solutions to the practice questions:
 
 **Question 1:**  
-$$ (a + 3)(2a - 3) = 2a^2 + 3a - 9 $$
+$$ 2a^2 + 6a - 3a - 9 $$  
+Simplified: $$ 2a^2 + 3a - 9 $$
 
 **Question 2:**  
-$$ (x + 2y)(3x - y) = 3x^2 + 5xy - 2y^2 $$
+$$ 3x^2 + 6xy - xy - 2y^2 $$ 
+Simplified: $$ 3x^2 + 5xy - 2y^2 $$
 
 **Question 3:**  
-$$ (3x - 2y)^2 = 9x^2 - 12xy + 4y^2 $$
+$$ 9x^2 - 6xy - 6xy + 4y^2 $$ 
+Simplified: $$ 9x^2 - 12xy + 4y^2 $$
 
 **Question 4:**  
-$$ (x + 4)(x^2 + x - 2) = x^3 + 5x^2 + 2x - 8 $$
+$$ x^3 + x^2 - 2x + 4x^2 + 4x - 8 $$  
+Simplified: $$ x^3 + 5x^2 + 2x - 8 $$
 
 **Question 5:**  
-$$ (m^2 - 9)(2m + 1) = 2m^3 + m^2 - 18m - 9 $$
+$$ 2m^3 + m^2 - 18m - 9 $$ 
