@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Plotting Line Graphs
-permalink: "/grade7/PlottingLineGraphs"
+title: Expanding Double Brackets
+permalink: "/grade7/DoubleBrackets"
 parent: Unit 3
 grand_parent: Grade 7 Standard
 nav_order: 1
