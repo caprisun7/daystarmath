@@ -11,13 +11,13 @@ nav_order: 5
 By using suitable substitution or otherwise, solve the equation $$ 5^{2x} - 3(5^{x}) -10 = 0 $$.
 
 ### Question 2
-Solve $$ 5^{2x} + 1 + 2(5^{x}) = 51 $$ by using an appropriate substitution or otherwise.
+Solve $$ 5^{2x+1} + 2(5^{x}) = 51 $$ by using an appropriate substitution or otherwise.
 
 ### Question 3
 Solve $$ 2(4^{x-1}) -5(2^{x}) -8 = 0 $$, giving your answer correct to 3 decimal places.
 
 ### Question 4
-Solve $$ \sqrt[3]{27^{2x+3}} = \frac{1}{3^{x-2}9^{3x}} $$.
+Solve $$ \sqrt{27^{2x+3}} = \frac{1}{3^{x-2}9^{3x}} $$.
 
 ### Question 5
 Solve $$ 3^{x+1} - 2 = 8 \times 3^{x-1} $$.
@@ -26,10 +26,10 @@ Solve $$ 3^{x+1} - 2 = 8 \times 3^{x-1} $$.
 Using a suitable substitution, find the values of x such that $$ 3^{x-2} + 12(\frac{1}{3})^{x-2} = 7 $$.
 
 ### Question 7
-Find the value of x if $$ 5^{x-2} \times 25^{4x} = \frac{1}{\sqrt[12]{25^{2x+3}}} $$.
+Find the value of x if $$ 5^{x-2} \times 25^{4x} = \frac{1}{\sqrt{125^{2x+3}}} $$.
 
 ### Question 8
-By using an appropriate substitution or otherwise, solve the equation $$ 3^{2x+1} + 9(3^{x}) = \frac{1}{3} - \frac{1}{3} $$.
+By using an appropriate substitution or otherwise, solve the equation $$ 3^{2x+1} + 9(3^{x}) = \frac{10}{3} $$.
 
 ### Question 9
 Solve the equation $$ 2^{2x+3} + 2^{x+3} - 2^{x} = 1 $$ by using the substitution $$ y = 2^{x} $$.
@@ -50,16 +50,13 @@ Solve the equation $$ \frac{27^{2+x}}{9} = 3^{x} \times 81^{2x-1} $$.
 Given that $$ 25^{x+1} \times 2^{4x-1} = 32^{x} \times 5^{3x} $$, evaluate $$ 10^{x} $$.
 
 ### Question 15
-Solve the equation $$ \sqrt[3]{27^{2x+3}} = \frac{1}{3^{x-2} \times 9^{3x}} $$.
-
-### Question 16
 Solve $$ 2^{x+1} - 24\sqrt{2^{x}} + 64 = 0 $$.
 
-### Question 17
+### Question 16
 By using a suitable substitution, solve the equation $$ 2^{3+2x} + 2^{5+x} = 2^{x} + 4 $$.
 
-### Question 18
-Find the value of \( p \) and of \( q \) if $$ \frac{3^{n+1} - 3^{n-1}}{2 \times 3^{2n}} = p \times 3^{9n} $$.
+### Question 17
+Find the value of $$ p $$ and of $$ q $$ if $$ \frac{3^{n+1} - 3^{n-1}}{2 \times 3^{2n}} = p \times 3^{qn} $$.
 
-### Question 19
+### Question 18
 Solve the equation $$ \frac{3^{2(x+1)}}{9^{x+2}} = \frac{27^{x}}{3} $$.
