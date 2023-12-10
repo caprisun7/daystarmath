@@ -4,7 +4,7 @@ title: Quadratic Exponential Equations
 permalink: "/grade8/QuadraticExponentialEquations"
 parent: Unit 3
 grand_parent: Grade 8 Higher
-nav_order: 4
+nav_order: 7
 ---
 
 # Lecture Note: Solving Quadratic Exponential Equations
@@ -95,25 +95,7 @@ To understand and solve quadratic exponential equations using suitable substitut
 
 ---
 
-## Self-Explanation Prompts
-
-1. Why do we let $$ a = 3^x $$ and $$ y = 2^x $$ in these examples?
-2. What are the benefits of making a substitution in exponential equations?
-3. How do we know that $$ 3^x $$ and $$ 2^x $$ are always positive?
-4. Why is there no solution for $$ 3^x = -\frac{9}{2} $$ and $$ 2^x = -4 $$?
-5. Can you explain the importance of factoring in solving quadratic equations?
-6. What makes an exponential equation quadratic?
-
-### Answers to Self-Explanation Prompts
-
-1. We let $$ a = 3^x $$ and $$ y = 2^x $$ to transform the exponential equations into quadratic ones, which are more straightforward to solve.
-2. Substitution simplifies the equations, reducing them from exponential forms to polynomial forms that are typically easier to solve.
-3. Functions like $$ 3^x $$ and $$ 2^x $$ are exponential functions with positive bases, which means they grow exponentially and can never reach zero or negative values.
-4. There are no solutions for $$ 3^x = -\frac{9}{2} $$ and $$ 2^x = -4 $$ because exponential functions with positive bases cannot yield negative results.
-5. Factoring is crucial as it allows us to break down the quadratic equation into simpler parts that can be solved individually, revealing the possible values of $$ x $$.
-6. An exponential equation becomes quadratic when the exponent contains a variable that, when expressed in terms of another variable, forms a quadratic relationship (like $$ a^2 $$, $$ ay $$, or $$ y^2 $$) in the resulting polynomial equation.
-
-## Solving Exponential Quadratic Equations
+## Practice Questions with Full Solutions
 
 ### Questions with Answers
 

@@ -4,7 +4,7 @@ title: Quadratic Exponential Equations HW
 permalink: "/grade8/QuadraticExponentialEquationsHW"
 parent: Unit 3
 grand_parent: Grade 8 Higher
-nav_order: 5
+nav_order: 8
 ---
 
 ### Question 1
