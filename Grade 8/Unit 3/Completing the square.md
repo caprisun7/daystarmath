@@ -11,29 +11,6 @@ nav_order: 3
 
 Completing the square is a technique used in algebra to transform an expression of the form $$ x^2 \pm bx $$ into a perfect square of the form $$ (x+a)^2 $$ or $$ (x-a)^2 $$. This method is particularly useful for solving quadratic equations.
 
-## Why Add $$ \left(\frac{b}{2}\right)^2 $$?
-
-The reason for adding $$ \left(\frac{b}{2}\right)^2 $$ to complete the square in expressions like $$ x^2 \pm bx $$ is based on the algebraic identity for squaring a binomial:
-
-$$
-(a + b)^2 = a^2 + 2ab + b^2
-$$
-
-### Understanding the Binomial Square Identity
-
-1. **Square of the First Term**: $$ a^2 $$
-2. **Twice the Product of the Two Terms**: $$ 2ab $$
-3. **Square of the Second Term**: $$ b^2 $$
-
-### Applying the Identity to Complete the Square
-
-In the expressions $$ x^2 + bx $$ or $$ x^2 - bx $$, we have the first two parts of the binomial square identity:
-
-- $$ x^2 $$ (the square of the first term)
-- $$ \pm bx $$ (twice the product of the two terms, but we only have the first half, $$ bx $$)
-
-To complete the square, we need to add the square of the second term in the binomial, which is missing.
-
 ## Example 1: Completing the Square for $$ x^2 + bx $$
 
 1. **Expression**: $$ x^2 + bx $$
@@ -65,6 +42,29 @@ Let's say $$ b = 4 $$ in $$ x^2 - 4x $$.
 2. **Add**: $$ \left(\frac{4}{2}\right)^2 = 4 $$
 3. **Resulting Expression**: $$ x^2 - 4x + 4 $$
 4. **Complete Square**: $$ (x - 2)^2 $$
+
+## Why Add $$ \left(\frac{b}{2}\right)^2 $$?
+
+The reason for adding $$ \left(\frac{b}{2}\right)^2 $$ to complete the square in expressions like $$ x^2 \pm bx $$ is based on the algebraic identity for squaring a binomial:
+
+$$
+(a + b)^2 = a^2 + 2ab + b^2
+$$
+
+### Understanding the Binomial Square Identity
+
+1. **Square of the First Term**: $$ a^2 $$
+2. **Twice the Product of the Two Terms**: $$ 2ab $$
+3. **Square of the Second Term**: $$ b^2 $$
+
+### Applying the Identity to Complete the Square
+
+In the expressions $$ x^2 + bx $$ or $$ x^2 - bx $$, we have the first two parts of the binomial square identity:
+
+- $$ x^2 $$ (the square of the first term)
+- $$ \pm bx $$ (twice the product of the two terms, but we only have the first half, $$ bx $$)
+
+To complete the square, we need to add the square of the second term in the binomial, which is missing.
 
 ## Example 3: Solving $$ x^2 + 8x - 5 = 0 $$
 
