@@ -14,6 +14,8 @@ Factorise $$ b^2 + 3b - 10 $$ completely.
 ## Question 2
 Factorise the expression $$ m^2 - m - 30 $$.
 
+Self-explanation exercise: To find the answer in the form $$ (x+m)(x+n) $$, what must $$ m + n $$ equals to and why?
+
 ## Question 3
 Factorise the expression $$ c^2 + 13c + 36 $$.
 
@@ -31,6 +33,8 @@ Factorise $$ y^2 + 11y - 12 $$.
 
 ## Question 8
 Factorise the expression $$ f^2 - 18f + 32 $$.
+
+Self-explanation exercise: To find the answer in the form $$ (x+m)(x+n) $$, why must $$ m + n = -18 $$ and $$ mn = 32 $$
 
 ## Question 9
 Factorise the expression $$ p^2 + 14r - 72 $$.
