@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Factorising Quadratics
-permalink: "/grade7/Factorising Quadratics"
+permalink: "/grade7/FactorisingQuadratics"
 parent: Unit 3
 grand_parent: Grade 7 Standard
 nav_order: 3
