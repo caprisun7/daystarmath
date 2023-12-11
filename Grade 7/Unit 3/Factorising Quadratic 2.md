@@ -28,7 +28,6 @@ $$ (16x - 9)(x - 1) $$
 By Cross Method:
 
   |  8c   |   9  |
-  |-------|------|
   |  3c   |   1  |
 
 
@@ -48,7 +47,6 @@ $$ (8c + 9)(3c + 1) $$
 By Cross Method:
 
   | 5c   | -2   |
-  |------|------|
   | 3c   | +4   |
 
 
@@ -71,7 +69,6 @@ $$ (5c - 2)(3c + 4) $$
 By Cross Method:
 
   | 8m   | +15  |
-  |------|------|
   | m    | -2   |
 
 Cross multiplication gives us:
