@@ -11,7 +11,6 @@ nav_order: 5
 By Cross Method:
 
   |  16x  |  -9  |
-  |-------|------|
   |  x    |  -1  |
 
 Cross multiplication gives us:
@@ -71,7 +70,7 @@ $$ (5c - 2)(3c + 4) $$
 
 By Cross Method:
 
-  | 8m   | +15   |
+  | 8m   | +15  |
   |------|------|
   | m    | -2   |
 
