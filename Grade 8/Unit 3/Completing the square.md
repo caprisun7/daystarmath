@@ -43,28 +43,17 @@ Let's say $$ b = 4 $$ in $$ x^2 - 4x $$.
 3. **Resulting Expression**: $$ x^2 - 4x + 4 $$
 4. **Complete Square**: $$ (x - 2)^2 $$
 
-## Why Add $$ \left(\frac{b}{2}\right)^2 $$?
+### Self-explanation Exercise (Criteria C): Why Add $$ \left(\frac{b}{2}\right)^2 $$?
 
-The reason for adding $$ \left(\frac{b}{2}\right)^2 $$ to complete the square in expressions like $$ x^2 \pm bx $$ is based on the algebraic identity for squaring a binomial:
+The reason for adding $$ \left(\frac{b}{2}\right)^2 $$ to complete the square in expressions like $$ x^2 \pm bx $$ is based on the formula:
 
 $$
-(a + b)^2 = a^2 + 2ab + b^2
+(x \pm a)^2 = x^2 \pm 2ax + a^2
 $$
 
-### Understanding the Binomial Square Identity
+In the expressions $$ x^2 + bx $$ or $$ x^2 - bx $$, we have the first two parts of $$ (x + a)^2 $$, namely $$ x^2 $$ and $$ \pm 2ax $$ if $$ a = \frac{b}{2} $$:
 
-1. **Square of the First Term**: $$ a^2 $$
-2. **Twice the Product of the Two Terms**: $$ 2ab $$
-3. **Square of the Second Term**: $$ b^2 $$
-
-### Applying the Identity to Complete the Square
-
-In the expressions $$ x^2 + bx $$ or $$ x^2 - bx $$, we have the first two parts of the binomial square identity:
-
-- $$ x^2 $$ (the square of the first term)
-- $$ \pm bx $$ (twice the product of the two terms, but we only have the first half, $$ bx $$)
-
-To complete the square, we need to add the square of the second term in the binomial, which is missing.
+To complete the square, we need to add $$ a^2 $$, which is $$ \left(\frac{b}{2}\right)^2 $$.
 
 ## Example 3: Solving $$ x^2 + 8x - 5 = 0 $$
 
