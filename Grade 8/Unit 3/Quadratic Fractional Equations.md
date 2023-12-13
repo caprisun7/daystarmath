@@ -109,3 +109,7 @@ $$ 8x - 3 = 0 \quad \text{or} \quad x - 1 = 0 $$
 $$ x = \frac{3}{8} \quad \text{or} \quad x = 1 $$
 
 Therefore, the solutions are $$ x = \frac{3}{8} $$ and $$ x = 1 $$.
+
+**Criteria C Question: Why do we factorise before clearing the fractions**
+
+If we were to clear the fractions without factorising, we'd have to multiply by the least common denominator $$ (4x^2 - 4x + 1)(2x - 1) $$, which is more complex and could lead to more complicated algebra than necessary. Recognizing the square trinomial simplifies this to just $$ (2x - 1)^2 $$, making the algebra more manageable.
