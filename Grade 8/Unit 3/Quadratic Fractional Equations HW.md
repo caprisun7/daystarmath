@@ -7,7 +7,7 @@ grand_parent: Grade 8 Higher
 nav_order: 6
 ---
 # Question 1
-Solve $$ \frac{x+1}{3-2x} = \frac{3x-14}{4x^2-9} = 0 $$.
+Solve $$ \frac{x+1}{3-2x} - \frac{3x-14}{4x^2-9} = 0 $$.
 
 Why is factorization needed before clearing the fraction?
 
