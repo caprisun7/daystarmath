@@ -21,7 +21,7 @@ Which number must be added to the left hand side of the equation to get a perfec
 Why do you then subtract the same number immediately after adding it. Explain your reasons clearly.
 
 # Question 4
-By using “completing the square”, solve $$16y^2 + 14x - 10 = 0$$ leaving your answers in surd form.
+By using “completing the square”, solve $$16y^2 + 14y - 10 = 0$$ leaving your answers in surd form.
 
 Why must you clear the coefficient of $$y^2$$ before completing the square?
 
