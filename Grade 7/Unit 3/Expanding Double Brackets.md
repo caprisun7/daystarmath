@@ -7,7 +7,7 @@ grand_parent: Grade 7 Standard
 nav_order: 1
 ---
 
-# Lecture Notes on Expanding Expressions of the Form $$(x + a)(x + b)$$
+# Expanding Expressions of the Form $$(x + a)(x + b)$$
 
 ## Introduction
 
@@ -28,17 +28,30 @@ When we have an expression in the form $$(x + a)(x + b)$$, where $$a$$ and $$b$$
 4. Combine like terms:
    $$ = x^2 + 7x + 12 $$
 
-#### Self-Explanation Prompts:
+#### Self-Explanation Question (Criteria C):
 
-- Why do we apply the distributive law in step 1?
+- Why is step 1 an application of a distribution law?
 - How does expanding each term in step 2 help in simplifying the expression?
-- What is the purpose of combining like terms in step 4?
 
 ### Answers to Self-Explanation Prompts:
 
-- The distributive law is applied to multiply each term in one bracket by each term in the other. This ensures that all possible products are accounted for.
-- Expanding each term makes it clear what terms we have and how they can be combined.
-- Combining like terms simplifies the expression into a more manageable form, making it easier to understand or use in further calculations.
+- The Distributive Law is a fundamental principle in algebra. It states that for any three numbers $$a$$, $$b$$, and $$c$$:
+
+$$ a(b + c) = ab + ac $$
+
+This law allows the multiplication of a single term $$a$$ by each term inside a parenthesis $$b + c$$.
+
+Applying this to the expression $$(x + 3)(x + 4)$$:
+
+1. Let $$a$$ be $$(x + 4)$$, and $$b + c$$ be $$(x + 3)$$.
+2. Apply the Distributive Law:
+   - Multiply $$a = (x + 4)$$ by $$b = x$$:
+     $$ x \cdot (x + 4) $$
+   - Then, multiply $$a = (x + 4)$$ by $$c = 3$$:
+     $$ 3 \cdot (x + 4) $$
+
+So, when you write it out, it becomes:
+$$(x + 3)(x + 4) = x(x + 4) + 3(x + 4)$$
 
 ## Example 2: Both $$a$$ and $$b$$ are Negative
 
