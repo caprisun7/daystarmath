@@ -28,14 +28,9 @@ When we have an expression in the form $$(x + a)(x + b)$$, where $$a$$ and $$b$$
 4. Combine like terms:
    $$ = x^2 + 7x + 12 $$
 
-#### Self-Explanation Question (Criteria C):
+#### Self-Explanation Question 1 (Criteria C): Why is step 1 an application of a distribution law?
 
-- Why is step 1 an application of a distribution law?
-- How does expanding each term in step 2 help in simplifying the expression?
-
-### Answers to Self-Explanation Prompts:
-
-- The Distributive Law is a fundamental principle in algebra. It states that for any three numbers $$a$$, $$b$$, and $$c$$:
+The Distributive Law states that for any three numbers $$a$$, $$b$$, and $$c$$:
 
 $$ a(b + c) = ab + ac $$
 
@@ -53,6 +48,24 @@ Applying this to the expression $$(x + 3)(x + 4)$$:
 So, when you write it out, it becomes:
 $$(x + 3)(x + 4) = x(x + 4) + 3(x + 4)$$
 
+#### Self-Explanation Question 2 (Criteria C): Is there another way the apply the distribution law in step 1?
+
+Yes, the Distributive Law states that for any three numbers $$a$$, $$b$$, and $$c$$:
+
+$$ a(b + c) = ab + ac $$
+
+Applying this to the expression $$(x + 3)(x + 4)$$:
+
+1. Let $$a$$ be $$(x + 3)$$, and $$b + c$$ be $$(x + 4)$$.
+2. Apply the Distributive Law:
+   - Multiply $$a = (x + 3)$$ by $$b = x$$:
+     $$ x \cdot (x + 3) $$
+   - Then, multiply $$a = (x + 3)$$ by $$c = 4$$:
+     $$ 4 \cdot (x + 3) $$
+
+So, when you write it out, it becomes:
+$$(x + 3)(x + 4) = x(x + 3) + 4(x + 3)$$
+
 ## Example 2: Both $$a$$ and $$b$$ are Negative
 
 ### Problem: Expand $$(x - 2)(x - 5)$$
@@ -68,15 +81,9 @@ $$(x + 3)(x + 4) = x(x + 4) + 3(x + 4)$$
 4. Combine like terms:
    $$ = x^2 - 7x + 10 $$
 
-#### Self-Explanation Prompts:
+#### Self-Explanation Question 1 (Criteria C): In step 2, why do we have $$ + 2 \cdot 5 $$ instead of $$ - 2 \cdot 5 $$
 
-- Why does the term $$-2(x - 5)$$ become $$-2x + 10$$ after expansion?
-- What is the significance of the negative signs in front of $$a$$ and $$b$$?
-
-### Answers to Self-Explanation Prompts:
-
-- The term $$-2(x - 5)$$ is expanded by distributing $$-2$$ across both terms in the bracket, resulting in $$-2x + 10$$. The negative sign in front of the 2 changes the signs of the terms inside the bracket upon multiplication.
-- The negative signs in front of $$a$$ and $$b$$ indicate subtraction. They affect the signs of the terms when expanded and combined, leading to different coefficients in the final expression.
+The reason we have $$+ 2 \cdot 5$$ instead of $$- 2 \cdot 5$$ in step 2 is due to the application of the distributive law with subtraction. When distributing $$-2$$ over $$(x - 5)$$, the multiplication of the two negative terms ($$-2$$ and $$-5$$) results in a positive term.
 
 ## Example 3: One Negative and One Positive
 
@@ -92,16 +99,6 @@ $$(x + 3)(x + 4) = x(x + 4) + 3(x + 4)$$
    $$ = x^2 - 3x + 6x - 18 $$
 4. Combine like terms:
    $$ = x^2 + 3x - 18 $$
-
-#### Self-Explanation Prompts:
-
-- How does the presence of one negative and one positive constant affect the expansion?
-- Why do we get a different type of term (positive and negative) in the final expression?
-
-### Answers to Self-Explanation Prompts:
-
-- The presence of one negative and one positive constant leads to a mix of positive and negative terms when expanded. This is because the negative constant introduces subtraction, while the positive constant introduces addition.
-- The different types of terms in the final expression result from the combination of positive and negative products. The signs of the constants dictate whether the terms they produce upon expansion add to or subtract from the total value of the expression.
 
 ## Practice Questions
 
