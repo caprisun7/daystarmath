@@ -6,23 +6,27 @@ parent: Unit 3
 grand_parent: Grade 7 Standard
 nav_order: 5
 ---
-### Example 1: Factorize $$ 16x^2 - 25x + 9 $$
+### Example 1: Factorize $$ 25x^2 + 5x - 6 $$
 
 By Cross Method:
 
-  |  16x  |  -9  |
-  |  x    |  -1  |
+  |  5x  |  -2  |
+  |  5x    |  3  |
 
 Cross multiplication gives us:
 
-- $$ 16x \times -1 = -16x $$
-- $$ x \times -9 = -9x $$
+- $$ 5x \times 3 = 15x $$
+- $$ 5x \times -2 = -10x $$
 
-These add up to the middle term $$ -25x $$.
+These add up to the middle term $$ 5x $$.
 
 Therefore, the factors are:
 
-$$ (16x - 9)(x - 1) $$
+$$ (5x - 2)(5x + 3) $$
+
+**Self-explanation question 1 (Criteria C): Why can't we use the method where we find 2 numbers whose sum is 5 and product is -6?**
+
+The sum and product method is based on the formula $$(x + a)(x + b) = x^2 + (a + b)x + ab$$. This formula always results in a quadratic expression where the coefficient of $$x^2$$ is 1. In our question we have $$ 25x^2 $$ so the coefficient of $$ x^25 $$ is 25, which means the sum and product method doesn't apply.
 
 ### Example 2: Factorize $$ 24c^2 + 35c + 9 $$
 By Cross Method:
