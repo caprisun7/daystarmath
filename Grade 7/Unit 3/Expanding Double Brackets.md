@@ -17,7 +17,7 @@ When we have an expression in the form $$(x + a)(x + b)$$, where $$a$$ and $$b$$
 
 ### Problem: Expand $$(x + 3)(x + 4)$$
 
-#### Solution:
+**Solution:**
 
 1. Apply the distributive law:
    $$ (x + 3)(x + 4) = x(x + 4) + 3(x + 4) $$
@@ -28,7 +28,7 @@ When we have an expression in the form $$(x + a)(x + b)$$, where $$a$$ and $$b$$
 4. Combine like terms:
    $$ = x^2 + 7x + 12 $$
 
-#### Self-Explanation Question 1 (Criteria C): Why is step 1 an application of a distribution law?
+**Self-Explanation Question 1 (Criteria C): Why is step 1 an application of a distribution law?**
 
 The Distributive Law states that for any three numbers $$a$$, $$b$$, and $$c$$:
 
@@ -48,7 +48,7 @@ Applying this to the expression $$(x + 3)(x + 4)$$:
 So, when you write it out, it becomes:
 $$(x + 3)(x + 4) = x(x + 4) + 3(x + 4)$$
 
-#### Self-Explanation Question 2 (Criteria C): Is there another way the apply the distribution law in step 1?
+**Self-Explanation Question 2 (Criteria C): Is there another way the apply the distribution law in step 1?**
 
 Yes, the Distributive Law states that for any three numbers $$a$$, $$b$$, and $$c$$:
 
@@ -70,7 +70,7 @@ $$(x + 3)(x + 4) = x(x + 3) + 4(x + 3)$$
 
 ### Problem: Expand $$(x - 2)(x - 5)$$
 
-#### Solution:
+**Solution:**
 
 1. Apply the distributive law:
    $$ (x - 2)(x - 5) = x(x - 5) - 2(x - 5) $$
