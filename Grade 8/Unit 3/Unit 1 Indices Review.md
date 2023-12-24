@@ -60,6 +60,8 @@ $$ \frac{9}{2} $$
 
 ### Example 3
 
+**Question:**
+
 Simplify the following expression:
 
 $$
@@ -77,3 +79,11 @@ $$
 &= x
 \end{align*}
 $$
+
+### Example 4
+
+**Question:**
+
+Given $$4^2 \div 8^{2x} = \frac{1}{64}$$, find the value of $$x$$.
+
+**Solutions**
