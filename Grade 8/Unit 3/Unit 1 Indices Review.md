@@ -18,10 +18,10 @@ $$
 
 $$
 \begin{align*} 
-&= \left(\frac{(6w^2y)^3}{(wy^2)^5}\right) \times \left(\frac{(y^2)^4}{16}\right) \\.
-&= \frac{216w^6y^3}{w^5y^{10}} \times \frac{y^8}{16} \\.
-&= \frac{216}{16} \times \frac{w^{6-5}y^{3+8}}{y^{10}} \\.
-&= \frac{27}{2}wy.
+&= \left(\frac{(6w^2y)^3}{(wy^2)^5}\right) \times \left(\frac{(y^2)^4}{16}\right) \\
+&= \frac{216w^6y^3}{w^5y^{10}} \times \frac{y^8}{16} \\
+&= \frac{216}{16} \times \frac{w^{6-5}y^{3+8}}{y^{10}} \\
+&= \frac{27}{2}wy
 \end{align*}
 $$
 
@@ -38,6 +38,7 @@ $$
 $$
 
 **Solution:**
+
 $$
 \begin{align*}
 &= \frac{(2^4)^{x+1} + 20 \cdot (2^2)^{2x}}{(2^1)^{x-3} \cdot (2^3)^{x+2}} \\
@@ -80,9 +81,10 @@ $$
 Given $$4^2 \div 8^{2x} = \frac{1}{64}$$, find the value of $$x$$.
 
 **Solutions**
+
 $$
 \begin{align*}
-&= 4^{2} \div 8^{2x} = \frac{1}{64} \\,
+&= 4^{2} \div 8^{2x} = \frac{1}{64} \\
 &= (2^{2})^{2} \div (2^{3})^{2x} = \frac{1}{2^{6}} \\
 &= 2^{4} \div 2^{6x} = 2^{-6} \\
 &= 2^{4-6x} = 2^{-6} \\
