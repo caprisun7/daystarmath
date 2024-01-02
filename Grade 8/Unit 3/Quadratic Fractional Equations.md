@@ -17,33 +17,18 @@ $$ \frac{4}{p} - \frac{5}{p+3} = \frac{p+8}{(p+3)^2} $$
 
 **Solution:**
 
-First, multiply both side by the common denominator $$ (p)(p+3)^2 $$ to clear the fractions:
-
-$$ 4(p+3)^2 - 5p(p+3) = (p+8)p $$
-
-Expand and simplify:
-
-$$ 4(p^2 + 6p + 9) - 5p^2 - 15p = p^2 + 8p $$
-
-Combine like terms:
-
-$$ -p^2 + 9p + 36 = p^2 + 8p $$
-
-Move all terms to one side to set the equation to zero:
-
-$$ 0 = 2p^2 + 8p - p^2 - 9p - 36 $$
-
-$$ 2p^2 - p - 36 = 0 $$
-
-Factor the quadratic equation:
-
-$$ (2p-9)(p+4) = 0 $$
-
-Set each factor equal to zero and solve for $$ p $$:
-
-$$ 2p - 9 = 0 \quad \text{or} \quad p + 4 = 0 $$
-
-$$ p = 4.5 \quad \text{or} \quad p = -4 $$
+$$
+\begin{align}
+4(p+3)^2 - 5p(p+3) &= (p+8)p \\
+4(p^2 + 6p + 9) - 5p^2 - 15p &= p^2 + 8p \\
+-p^2 + 9p + 36 &= p^2 + 8p \\
+0 &= 2p^2 + 8p - p^2 - 9p - 36 \\
+2p^2 - p - 36 &= 0 \\
+(2p-9)(p+4) &= 0 \\
+2p - 9 = 0 \quad &\text{or} \quad p + 4 = 0 \\
+p = 4.5 \quad &\text{or} \quad p = -4 \\
+\end{align}
+$$
 
 Therefore, the solutions are $$ p = 4.5 $$ and $$ p = -4 $$.
 
