@@ -9,7 +9,9 @@ nav_order: 1
 ### Example 1
 
 **Question:**
+
 Simplify the following expression:
+
 $$ 
 \left(\frac{(6w^2y)^3}{(wy^2)^5} \div \frac{16}{(y^2)^4}\right) 
 $$
