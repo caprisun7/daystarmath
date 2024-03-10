@@ -29,3 +29,6 @@ Why must you clear the coefficient of $$y^2$$ before completing the square?
 (a) What must be added to $$x^2 - \frac{7}{5}x$$ to obtain a perfect square? Explain why using the perfect square formula.
 
 (b) Using the above, solve $$\frac{14}{15}x - \frac{1}{8}x^2 = 0$$, leaving your answers as fractions.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3ODM0MzQwMjhdfQ==
+-->
