@@ -117,3 +117,6 @@ To complete the square, it's necessary to use the formula $$ (x + a)^2 $$, which
    - $$ (x - \frac{5}{2})^2 = \frac{1}{4} $$
    - $$ x - \frac{5}{2} = \pm\frac{1}{2} $$
    - $$ x = \frac{5}{2} \pm\frac{1}{2} $$
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNzIwNjIzOThdfQ==
+-->
