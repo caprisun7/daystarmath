@@ -29,3 +29,6 @@ nav_order: 2
 11. Without using a calculator, evaluate $$\frac{3^{\frac{1}{3}} \cdot 3^0 \cdot 9^{\frac{1}{3}}}{27^{\frac{2}{3}}}$$.
 
 12. Solve the equation $$\frac{27^{2+x}}{9} = 3^x \cdot 81^{2x-1}$$.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAwMDk2NTY4Nl19
+-->
