@@ -47,3 +47,6 @@ Solve $$ \frac{5}{x-4} - \frac{x+10}{x^2-2x-8} = 20 $$, giving your answers corr
 
 # Question 12
 Solve $$ \frac{x+2}{x^2-5x+6} - \frac{x}{4x-12} = \frac{13}{8} $$.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjQ3MTUwNzUwXX0=
+-->
