@@ -254,3 +254,6 @@ $$ 2^{2(3x-2)} = (2^3)^{-x+1} $$,
 $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjYwNzk4MzU5XX0=
+-->
