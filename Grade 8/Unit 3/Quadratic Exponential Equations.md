@@ -9,15 +9,11 @@ nav_order: 7
 
 # Lecture Note: Solving Quadratic Exponential Equations
 
-## Objective
-To understand and solve quadratic exponential equations using suitable substitutions and factoring.
-
----
-
 ## Example 1
-**Question:** Solve the equation $$ 2(9^{x-1}) - 5(3^x) = 27 $$.
+**Problem:** 
+Solve the equation $$ 2(9^{x-1}) - 5(3^x) = 27 $$.
 
-### Solution:
+**Solution:**
 
 1. Write the equation:
    $$ 2(9^{x-1}) - 5(3^x) = 27 $$
@@ -255,5 +251,5 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwNzk4MzU5XX0=
+eyJoaXN0b3J5IjpbMjA2MDYzMzI2OV19
 -->
