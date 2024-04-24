@@ -55,8 +55,9 @@ $$x=-2 \text{ or } 0$$
 ## Practice 1.2
 **Problem**
 Use an appropriate substitution, or otherwise, solve 
-$$ 7^{2x+1} + 20(7^x) = 3 $$.  
-_Answer:_ $$ x = -1 $$
+$$ 7^{2x+1} + 20(7^x) = 3 $$.
+**Answer**  
+$$ x = -1 $$
 
 
 
@@ -259,6 +260,6 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxNTEyNDQ4LC0yNjgwNTIxMTQsMjA2MD
-YzMzI2OV19
+eyJoaXN0b3J5IjpbMTQxMDk1NzYxOCwtMjY4MDUyMTE0LDIwNj
+A2MzMyNjldfQ==
 -->
