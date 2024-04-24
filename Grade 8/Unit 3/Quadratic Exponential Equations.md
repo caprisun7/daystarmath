@@ -89,13 +89,18 @@ $$ x = 0 \text{ or }x = 2 $$
 **Problem**
 Solve $$5^{x+1}=26-5^{1-x}$$
 **Solution**
+$$
+\begin{align*}
+
+\end{align*}
+$$
 $$x=1 \text{ or } x=-1$$
 
 ## Example 4
 **Problem**  
 Solve $$ 2^{x+1} - 24\sqrt{2^x} + 64 = 0 $$.  
 **Solution** 
-$$ x = 4 $$ or $$ x = 6 $$
+$$ x = 4 $$ 
 
 
 
@@ -259,6 +264,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIxNDE4MTMsMTAzMzc0MjA2MCwxND
-EwOTU3NjE4LC0yNjgwNTIxMTQsMjA2MDYzMzI2OV19
+eyJoaXN0b3J5IjpbLTIwMzc1OTcwOTcsLTE1MjIxNDE4MTMsMT
+AzMzc0MjA2MCwxNDEwOTU3NjE4LC0yNjgwNTIxMTQsMjA2MDYz
+MzI2OV19
 -->
