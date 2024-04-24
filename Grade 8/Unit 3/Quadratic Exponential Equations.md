@@ -73,8 +73,9 @@ $$
 8y^2 + 31y - 4 &= 0 \\
 (8y - 1)(y + 4) &= 0 \\
 8y - 1 = 0 \quad \text{or} \quad& y + 4 = 0\\
-y = \frac{1}{8}\\
+y = \frac{1}{8} \quad \text{or} \quad& y = -4\\
 2^x=\frac{1}{8}\\
+x=-3
 \end{align*}
 $$
 
@@ -251,6 +252,6 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwOTQzNDA2LDEwMzM3NDIwNjAsMTQxMD
+eyJoaXN0b3J5IjpbMzU2MzA1MDAwLDEwMzM3NDIwNjAsMTQxMD
 k1NzYxOCwtMjY4MDUyMTE0LDIwNjA2MzMyNjldfQ==
 -->
