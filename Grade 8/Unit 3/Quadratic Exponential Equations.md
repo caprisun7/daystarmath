@@ -127,6 +127,10 @@ x=4 &\text{ or } x=6\\
 \end{align*}
 $$ 
 
+## Practice 4.1
+**Problem**
+
+
 
 
 ## Practice Questions with Full Solutions
@@ -289,7 +293,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODY0MTA2LDE4MDk1ODM2NzksLTE1Mj
-IxNDE4MTMsMTAzMzc0MjA2MCwxNDEwOTU3NjE4LC0yNjgwNTIx
-MTQsMjA2MDYzMzI2OV19
+eyJoaXN0b3J5IjpbLTc5ODUwNDEyMSwxODA5NTgzNjc5LC0xNT
+IyMTQxODEzLDEwMzM3NDIwNjAsMTQxMDk1NzYxOCwtMjY4MDUy
+MTE0LDIwNjA2MzMyNjldfQ==
 -->
