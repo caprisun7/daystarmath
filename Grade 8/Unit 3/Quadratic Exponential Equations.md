@@ -72,10 +72,10 @@ $$
 8y^2 + 32y &= y + 4 \\
 8y^2 + 31y - 4 &= 0 \\
 (8y - 1)(y + 4) &= 0 \\
-8y - 1 = 0 \quad \text{or} \quad y + 4 = 0
+8y - 1 = 0 \quad \text{or} \quad& y + 4 = 0\\
 \end{align*}
+$$
 
-   $$ 8y - 1 = 0 \quad \text{or} \quad y + 4 = 0 $$
 
    $$ y = \frac{1}{8} \quad \quad \quad \text{(No Solution for } y = -4 \text{)} $$
 
@@ -250,6 +250,6 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTY1MzQzMywxNDEwOTU3NjE4LC0yNj
+eyJoaXN0b3J5IjpbMTAzMzc0MjA2MCwxNDEwOTU3NjE4LC0yNj
 gwNTIxMTQsMjA2MDYzMzI2OV19
 -->
