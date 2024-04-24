@@ -67,12 +67,13 @@ $$ x = -1 $$
 ### Solution:
 $$
 \begin{align*}
- 2^3 \cdot (2^x)^2 + 2^5 \cdot 2^x = 2^x + 4 $$
-
-  8(2^x)^2 + 32(2^x) = 2^x + 4 $$
-
+2^3 \cdot (2^x)^2 + 2^5 \cdot 2^x &= 2^x + 4 \\
+8(2^x)^2 + 32(2^x) &= 2^x + 4
+8y^2 + 32y &= y + 4
+\end{align*}
+$$
 4. Let $$ y = 2^x $$:
-   $$ 8y^2 + 32y = y + 4 $$
+   $$  $$
 
 5. Rearrange into a quadratic equation:
    $$ 8y^2 + 31y - 4 = 0 $$
@@ -256,6 +257,6 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1OTg3ODc2LDE0MTA5NTc2MTgsLTI2OD
-A1MjExNCwyMDYwNjMzMjY5XX0=
+eyJoaXN0b3J5IjpbLTEzMTI1Njg3OTIsMTQxMDk1NzYxOCwtMj
+Y4MDUyMTE0LDIwNjA2MzMyNjldfQ==
 -->
