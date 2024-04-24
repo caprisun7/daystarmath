@@ -87,8 +87,16 @@ $$ x = 0 \text{ or }x = 2 $$
 
 ## Example 3
 **Problem**
+Solve $$5^{x+1}=26-5^{1-x}$$
+**Answer**
+$$x=1 \text{ or } x=-1$$
 
-**S**
+## Example 4
+**Question 4:**  
+Solve $$ 2^{x+1} - 24\sqrt{2^x} + 64 = 0 $$.  
+_Answer:_ $$ x = 4 $$ or $$ x = 6 $$
+
+
 
 ## Practice Questions with Full Solutions
 
@@ -250,6 +258,6 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjUxMDk1NCwxMDMzNzQyMDYwLDE0MT
-A5NTc2MTgsLTI2ODA1MjExNCwyMDYwNjMzMjY5XX0=
+eyJoaXN0b3J5IjpbMzMwNjIxMDIyLDEwMzM3NDIwNjAsMTQxMD
+k1NzYxOCwtMjY4MDUyMTE0LDIwNjA2MzMyNjldfQ==
 -->
