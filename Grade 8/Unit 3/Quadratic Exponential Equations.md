@@ -129,6 +129,10 @@ $$
 
 ## Practice 4.1
 **Problem**
+Solve
+$$
+3^x - \sqrt{3}}^{x+4} + 20 = 0
+$$
 
 
 
@@ -293,7 +297,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODUwNDEyMSwxODA5NTgzNjc5LC0xNT
-IyMTQxODEzLDEwMzM3NDIwNjAsMTQxMDk1NzYxOCwtMjY4MDUy
-MTE0LDIwNjA2MzMyNjldfQ==
+eyJoaXN0b3J5IjpbLTE4NDkwMzk5ODMsLTc5ODUwNDEyMSwxOD
+A5NTgzNjc5LC0xNTIyMTQxODEzLDEwMzM3NDIwNjAsMTQxMDk1
+NzYxOCwtMjY4MDUyMTE0LDIwNjA2MzMyNjldfQ==
 -->
