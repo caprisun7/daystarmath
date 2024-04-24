@@ -96,11 +96,10 @@ $$
 5y&=26-5\cdot\frac{1}{y}\\
 0&=5y^2-26y+5 \\
 0&=(5y-1)(y-5)\\
-x=1 \text{ or } x=-1
+y&=\frac{1}{5} \text{ or } y=5\\
+x&=-1 \text{ or } x=1
 \end{align*}
 $$
-
-$$x=1 \text{ or } x=-1$$
 
 ## Example 4
 **Problem**  
@@ -270,7 +269,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc2OTIwNjgsLTE1MjIxNDE4MTMsMT
-AzMzc0MjA2MCwxNDEwOTU3NjE4LC0yNjgwNTIxMTQsMjA2MDYz
-MzI2OV19
+eyJoaXN0b3J5IjpbLTkzMDc3MjY4NCwtMTUyMjE0MTgxMywxMD
+MzNzQyMDYwLDE0MTA5NTc2MTgsLTI2ODA1MjExNCwyMDYwNjMz
+MjY5XX0=
 -->
