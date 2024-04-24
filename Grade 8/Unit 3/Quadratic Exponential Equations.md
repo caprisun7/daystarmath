@@ -103,6 +103,9 @@ $$
 
 ## Practice 3.1
 **Problem**
+Solve
+$$
+8x
 
 **Answer**
 
@@ -299,7 +302,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTQwNjI1NSwtNzk4NTA0MTIxLDE4MD
-k1ODM2NzksLTE1MjIxNDE4MTMsMTAzMzc0MjA2MCwxNDEwOTU3
-NjE4LC0yNjgwNTIxMTQsMjA2MDYzMzI2OV19
+eyJoaXN0b3J5IjpbOTE5NTM0ODIsLTc2MTQwNjI1NSwtNzk4NT
+A0MTIxLDE4MDk1ODM2NzksLTE1MjIxNDE4MTMsMTAzMzc0MjA2
+MCwxNDEwOTU3NjE4LC0yNjgwNTIxMTQsMjA2MDYzMzI2OV19
 -->
