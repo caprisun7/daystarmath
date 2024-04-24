@@ -91,9 +91,11 @@ Solve $$5^{x+1}=26-5^{1-x}$$
 **Solution**
 $$
 \begin{align*}
+5\cdot5^x&=26-5\cdot5^{-x}\\
 
 \end{align*}
 $$
+
 $$x=1 \text{ or } x=-1$$
 
 ## Example 4
@@ -264,7 +266,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc1OTcwOTcsLTE1MjIxNDE4MTMsMT
-AzMzc0MjA2MCwxNDEwOTU3NjE4LC0yNjgwNTIxMTQsMjA2MDYz
-MzI2OV19
+eyJoaXN0b3J5IjpbMjExNjg3OTE5NCwtMTUyMjE0MTgxMywxMD
+MzNzQyMDYwLDE0MTA5NTc2MTgsLTI2ODA1MjExNCwyMDYwNjMz
+MjY5XX0=
 -->
