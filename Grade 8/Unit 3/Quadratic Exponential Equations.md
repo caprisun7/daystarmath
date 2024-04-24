@@ -52,6 +52,13 @@ Solve the equation $$9^{x} - 10(3^{x}) + 1 = 0$$.
 **Answer**
 $$x=-2 \text{ or } 0$$
 
+## Practice 1.2
+**Problem**
+Use an appropriate substitution, or otherwise, solve 
+$$ 7^{2x+1} + 20(7^x) = 3 $$.  
+_Answer:_ $$ x = -1 $$
+
+
 
 ## Example 2
 **Question:** By using a suitable substitution, solve the equation $$ 2^{3+2x} + 2^{5+x} = 2^x + 4 $$.
@@ -252,6 +259,6 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3NDcyMjc0LC0yNjgwNTIxMTQsMjA2MD
+eyJoaXN0b3J5IjpbMzYxNTEyNDQ4LC0yNjgwNTIxMTQsMjA2MD
 YzMzI2OV19
 -->
