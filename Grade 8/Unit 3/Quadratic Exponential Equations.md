@@ -133,7 +133,8 @@ Find the value of $3^x$ if
 $$
 3^x - \left(\sqrt{3}\right)^{x+4} + 20 = 0
 $$
-**Answe**
+**Answer**
+$$16 \text{ or } 25$$
 
 
 
@@ -298,7 +299,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ1NDA1NzMsLTc5ODUwNDEyMSwxOD
-A5NTgzNjc5LC0xNTIyMTQxODEzLDEwMzM3NDIwNjAsMTQxMDk1
-NzYxOCwtMjY4MDUyMTE0LDIwNjA2MzMyNjldfQ==
+eyJoaXN0b3J5IjpbLTc2MTQwNjI1NSwtNzk4NTA0MTIxLDE4MD
+k1ODM2NzksLTE1MjIxNDE4MTMsMTAzMzc0MjA2MCwxNDEwOTU3
+NjE4LC0yNjgwNTIxMTQsMjA2MDYzMzI2OV19
 -->
