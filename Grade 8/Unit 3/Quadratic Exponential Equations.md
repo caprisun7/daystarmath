@@ -81,7 +81,14 @@ $$
 
 ## Practice 2.1
 **Problem**
+Find the values of x such that $$ 3^{2x} - 3^{x+2} = 3^x - 9 $$.  
+**Answer** 
+$$ x = 0 \text{ or }x = 2 $$
 
+## Example 3
+**Problem**
+
+**S**
 
 ## Practice Questions with Full Solutions
 
@@ -243,6 +250,6 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0Mjk5NTQ0LDEwMzM3NDIwNjAsMTQxMD
-k1NzYxOCwtMjY4MDUyMTE0LDIwNjA2MzMyNjldfQ==
+eyJoaXN0b3J5IjpbLTg1MjUxMDk1NCwxMDMzNzQyMDYwLDE0MT
+A5NTc2MTgsLTI2ODA1MjExNCwyMDYwNjMzMjY5XX0=
 -->
