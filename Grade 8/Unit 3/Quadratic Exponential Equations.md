@@ -62,9 +62,9 @@ $$ x = -1 $$
 
 
 ## Example 2
-**Question:** By using a suitable substitution, solve the equation $$ 2^{3+2x} + 2^{5+x} = 2^x + 4 $$.
+**Problem:** By using a suitable substitution, solve the equation $$ 2^{3+2x} + 2^{5+x} = 2^x + 4 $$.
 
-### Solution:
+**Solution**
 $$
 \begin{align*}
 2^3 \cdot (2^x)^2 + 2^5 \cdot 2^x &= 2^x + 4 \\
@@ -79,18 +79,9 @@ x=-3
 \end{align*}
 $$
 
-   $$ y = \frac{1}{8} \quad \quad \quad $$
+## Practice 2.1
+**Problem**
 
-8. Solve for $$ x $$ using $$ y = 2^x $$:
-   $$ 2^x = \frac{1}{8} $$
-
-   $$ 2^x = 2^{-3} $$
-
-   $$ x = -3 $$
-
-**Conclusion:** The solution for $$ x $$ is $$ x = -3 $$, since $$ 2^x $$ cannot be negative.
-
----
 
 ## Practice Questions with Full Solutions
 
@@ -252,6 +243,6 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MzA1MDAwLDEwMzM3NDIwNjAsMTQxMD
+eyJoaXN0b3J5IjpbNjg0Mjk5NTQ0LDEwMzM3NDIwNjAsMTQxMD
 k1NzYxOCwtMjY4MDUyMTE0LDIwNjA2MzMyNjldfQ==
 -->
