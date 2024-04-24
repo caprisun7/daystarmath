@@ -117,9 +117,14 @@ $$
 y^2-12y+32&=0\\
 (y-4)(y-8)&=0\\
 \end{align*}
-y=4 \text{ or } y=8\\
-2^x=16 \text{ or } 2^x=64
+$$
 
+$$
+\begin{align*}
+y=4 &\text{ or } y=8\\
+2^x=16 &\text{ or } 2^x=64\\
+x=4 &\text{ or } x=6\\
+\end{align*}
 $$ 
 
 
@@ -284,7 +289,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzAwNzc4MiwxODA5NTgzNjc5LC0xNT
-IyMTQxODEzLDEwMzM3NDIwNjAsMTQxMDk1NzYxOCwtMjY4MDUy
-MTE0LDIwNjA2MzMyNjldfQ==
+eyJoaXN0b3J5IjpbLTYxODY0MTA2LDE4MDk1ODM2NzksLTE1Mj
+IxNDE4MTMsMTAzMzc0MjA2MCwxNDEwOTU3NjE4LC0yNjgwNTIx
+MTQsMjA2MDYzMzI2OV19
 -->
