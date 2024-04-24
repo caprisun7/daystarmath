@@ -65,15 +65,11 @@ $$ x = -1 $$
 **Question:** By using a suitable substitution, solve the equation $$ 2^{3+2x} + 2^{5+x} = 2^x + 4 $$.
 
 ### Solution:
+$$
+\begin{align*}
+ 2^3 \cdot (2^x)^2 + 2^5 \cdot 2^x = 2^x + 4 $$
 
-1. Write the equation:
-   $$ 2^{3+2x} + 2^{5+x} = 2^x + 4 $$
-
-2. Express each term with the same base where possible:
-   $$ 2^3 \cdot (2^x)^2 + 2^5 \cdot 2^x = 2^x + 4 $$
-
-3. Simplify the coefficients:
-   $$ 8(2^x)^2 + 32(2^x) = 2^x + 4 $$
+  8(2^x)^2 + 32(2^x) = 2^x + 4 $$
 
 4. Let $$ y = 2^x $$:
    $$ 8y^2 + 32y = y + 4 $$
@@ -260,6 +256,6 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDk1NzYxOCwtMjY4MDUyMTE0LDIwNj
-A2MzMyNjldfQ==
+eyJoaXN0b3J5IjpbNTk1OTg3ODc2LDE0MTA5NTc2MTgsLTI2OD
+A1MjExNCwyMDYwNjMzMjY5XX0=
 -->
