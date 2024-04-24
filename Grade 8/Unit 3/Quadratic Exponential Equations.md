@@ -109,6 +109,7 @@ $$
 $$
 
 **Answer**
+$$-3 \text{ or } 0$$
 
 ## Example 4
 **Problem**  
@@ -303,7 +304,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzYxMjYxNCwtNzYxNDA2MjU1LC03OT
+eyJoaXN0b3J5IjpbLTE5OTgxODUwNiwtNzYxNDA2MjU1LC03OT
 g1MDQxMjEsMTgwOTU4MzY3OSwtMTUyMjE0MTgxMywxMDMzNzQy
 MDYwLDE0MTA5NTc2MTgsLTI2ODA1MjExNCwyMDYwNjMzMjY5XX
 0=
