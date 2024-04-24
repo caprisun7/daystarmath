@@ -73,11 +73,12 @@ $$
 8y^2 + 31y - 4 &= 0 \\
 (8y - 1)(y + 4) &= 0 \\
 8y - 1 = 0 \quad \text{or} \quad& y + 4 = 0\\
-y = \frac{1}{8} \quad \quad \quad \text{(No Solution for } y = -4 \text{)}
+y = \frac{1}{8}\\
+2^x=\frac{1}{8}\\
 \end{align*}
 $$
 
-   $$ y = \frac{1}{8} \quad \quad \quad \text{(No Solution for } y = -4 \text{)} $$
+   $$ y = \frac{1}{8} \quad \quad \quad $$
 
 8. Solve for $$ x $$ using $$ y = 2^x $$:
    $$ 2^x = \frac{1}{8} $$
@@ -250,6 +251,6 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjE4OTQ5NSwxMDMzNzQyMDYwLDE0MT
-A5NTc2MTgsLTI2ODA1MjExNCwyMDYwNjMzMjY5XX0=
+eyJoaXN0b3J5IjpbMzIwOTQzNDA2LDEwMzM3NDIwNjAsMTQxMD
+k1NzYxOCwtMjY4MDUyMTE0LDIwNjA2MzMyNjldfQ==
 -->
