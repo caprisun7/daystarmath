@@ -93,7 +93,8 @@ $$
 \begin{align*}
 5\cdot5^x&=26-5\cdot5^{-x}\\
 5\cdot5^x&=26-5\cdot\frac{1}{5^x}\\
-5y=26-5\cdot\frac{
+5y&=26-5\cdot\frac{1}{y}\\
+0&=5y^2-26y+5
 \end{align*}
 $$
 
@@ -267,7 +268,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTEzMjQzOTEsLTE1MjIxNDE4MTMsMT
-AzMzc0MjA2MCwxNDEwOTU3NjE4LC0yNjgwNTIxMTQsMjA2MDYz
-MzI2OV19
+eyJoaXN0b3J5IjpbNjkyMjM3NTQ3LC0xNTIyMTQxODEzLDEwMz
+M3NDIwNjAsMTQxMDk1NzYxOCwtMjY4MDUyMTE0LDIwNjA2MzMy
+NjldfQ==
 -->
