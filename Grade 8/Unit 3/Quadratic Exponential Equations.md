@@ -44,6 +44,9 @@ $$
 
 Since $3^{x} > 0$, $x = 3$.
 
+## Practice 1.1
+**Problem
+
 ## Example 2
 **Question:** By using a suitable substitution, solve the equation $$ 2^{3+2x} + 2^{5+x} = 2^x + 4 $$.
 
@@ -243,5 +246,5 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3NjAyMzk0LDIwNjA2MzMyNjldfQ==
+eyJoaXN0b3J5IjpbLTE0MzI0NjE4MCwyMDYwNjMzMjY5XX0=
 -->
