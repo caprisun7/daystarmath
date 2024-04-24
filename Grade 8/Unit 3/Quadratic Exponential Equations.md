@@ -7,7 +7,7 @@ grand_parent: Grade 8 Higher
 nav_order: 7
 ---
 
-# Lecture Note: Solving Quadratic Exponential Equations
+# Solving Quadratic Exponential Equations
 
 ## Example 1
 **Problem**
@@ -43,8 +43,6 @@ a &= -\frac{9}{2} & & & 3^{x} &= 27 \\
 $$
 
 Since $3^{x} > 0$, $x = 3$.
-
----
 
 ## Example 2
 **Question:** By using a suitable substitution, solve the equation $$ 2^{3+2x} + 2^{5+x} = 2^x + 4 $$.
@@ -245,5 +243,5 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTEyNjQ0NywyMDYwNjMzMjY5XX0=
+eyJoaXN0b3J5IjpbNjA3NjAyMzk0LDIwNjA2MzMyNjldfQ==
 -->
