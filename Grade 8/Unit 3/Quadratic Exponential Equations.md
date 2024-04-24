@@ -44,8 +44,13 @@ $$
 
 Since $3^{x} > 0$, $x = 3$.
 
+
 ## Practice 1.1
 **Problem**
+Solve the equation $$9^{x} - 10(3^{x}) + 1 = 0$$.
+
+**Answer**
+$$x=-2 \text{ or } 0$$
 
 
 ## Example 2
@@ -247,5 +252,6 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODA1MjExNCwyMDYwNjMzMjY5XX0=
+eyJoaXN0b3J5IjpbNTA3NDcyMjc0LC0yNjgwNTIxMTQsMjA2MD
+YzMzI2OV19
 -->
