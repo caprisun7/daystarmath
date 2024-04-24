@@ -10,45 +10,39 @@ nav_order: 7
 # Lecture Note: Solving Quadratic Exponential Equations
 
 ## Example 1
-**Problem:** 
-Solve the equation $$ 2(9^{x-1}) - 5(3^x) = 27 $$.
+**Problem**
+Solve the equation $$2(9^{x-1}) - 5(3^{x}) = 27$$.
 
-**Solution:**
+**Solution**
+$$
+\begin{align*}
+2(9^{x-1}) - 5(3^{x}) &= 27 \\
+2\left(\frac{9^x}{9}\right) -5(3^{x}) &= 27 \\
+\frac{2}{9}(3^{x})^2 -5(3^{x}) &= 27
+\end{align*}
+$$
+Let $a = 3^{x}$.
 
-1. Write the equation:
-   $$ 2(9^{x-1}) - 5(3^x) = 27 $$
+$$
+\begin{align*}
+\frac{2}{9}a^2 - 5a &= 27 \\
+2a^2 - 45a &= 243 \\
+2a^2 - 45a - 243 &= 0 \\
+(2a+9)(a-27) &= 0
+\end{align*}
+$$
 
-2. Simplify the base:
-   $$ 2\left(\frac{3^{2x}}{9}\right) - 5(3^x) = 27 $$
+$$
+\begin{align*}
+2a+9 &= 0 & \text{or} & & a-27 &= 0 \\
+2a &= -9 & & & a &= 27 \\
+a &= -\frac{9}{2} & & & 3^{x} &= 27 \\
+3^{x} &= -\frac{9}{2} & & & 3^{x} &= 3^3 \\
+& & & & x &= 3
+\end{align*}
+$$
 
-3. Recognize that $$ 9 = 3^2 $$ and simplify:
-   $$ \frac{2}{9}(3^x)^2 - 5(3^x) = 27 $$
-
-4. Let $$ a = 3^x $$:
-   $$ \frac{2}{9}a^2 - 5a = 27 $$
-
-5. Multiply through by 9 to clear the fraction:
-   $$ 2a^2 - 45a = 243 $$
-
-6. Rearrange into a quadratic equation:
-   $$ 2a^2 - 45a - 243 = 0 $$
-
-7. Factor the quadratic equation:
-   $$ (2a + 9)(a - 27) = 0 $$
-
-8. Solve for $$ a $$:
-   $$ 2a + 9 = 0 \quad \text{or} \quad a - 27 = 0 $$
-
-   $$ a = -\frac{9}{2} \quad \quad \quad a = 27 $$
-
-9. Solve for $$ x $$ using $$ a = 3^x $$:
-   $$ 3^x = 27 $$
-
-   $$ 3^x = 3^3 $$
-
-   $$ x = 3 $$
-
-**Conclusion:** Since $$ 3^x > 0 $$, $$ x = 3 $$.
+Since $3^{x} > 0$, $x = 3$.
 
 ---
 
@@ -251,5 +245,5 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDYzMzI2OV19
+eyJoaXN0b3J5IjpbMjEwNTEyNjQ0NywyMDYwNjMzMjY5XX0=
 -->
