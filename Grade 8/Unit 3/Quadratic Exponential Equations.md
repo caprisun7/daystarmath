@@ -112,7 +112,8 @@ Solve $$ 2^{x+1} - 24\sqrt{2^x} + 64 = 0 $$.
 **Solution** 
 $$
 \begin{align*}
-2\cdot2^x-24
+2\cdot2^x-24\sqrt{2^x}+64&=0\\
+2y^2-24y+64&=0\\
 \end{align*}
 $$ 
 
@@ -278,7 +279,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODk5NzQ3OCwxODA5NTgzNjc5LC0xNT
+eyJoaXN0b3J5IjpbMTQ2ODA4OTM3OSwxODA5NTgzNjc5LC0xNT
 IyMTQxODEzLDEwMzM3NDIwNjAsMTQxMDk1NzYxOCwtMjY4MDUy
 MTE0LDIwNjA2MzMyNjldfQ==
 -->
