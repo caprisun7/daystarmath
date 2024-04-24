@@ -39,8 +39,9 @@ Solve the equation:
 $$ \frac{1}{4x^2 - 4x + 1} + \frac{3}{1-2x} = 4 $$
 
 **Solution:**
+$$
+\begin{align*}
 
-First, notice that $$ 4x^2 - 4x + 1 $$ is a perfect square trinomial:
 
 $$ \frac{1}{(2x - 1)^2} + \frac{3}{2x - 1} = 4 $$
 
@@ -78,5 +79,6 @@ Therefore, the solutions are $$ x = \frac{3}{8} $$ and $$ x = 1 $$.
 
 If we were to clear the fractions without factorising, we'd have to multiply by the least common denominator $$ (4x^2 - 4x + 1)(2x - 1) $$, which is more complex and could lead to more complicated algebra than necessary. Recognizing the square trinomial simplifies this to just $$ (2x - 1)^2 $$, making the algebra more manageable.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDUwMzI4NCwxMjk0NzE1OTEyXX0=
+eyJoaXN0b3J5IjpbLTEzMTc4NjY4MzQsMTQ1NDUwMzI4NCwxMj
+k0NzE1OTEyXX0=
 -->
