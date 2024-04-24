@@ -30,7 +30,7 @@ p = 4.5 \quad &\text{or} \quad p = -4 \\
 \end{align*}
 $$
 
-### Example 2
+## Example 2
 
 **Problem:**
 
@@ -46,37 +46,12 @@ $$
 1 - 3(2x - 1) &= 4(2x - 1)^2\\
 1 - 6x + 3 &= 16x^2 - 16x + 4\\
 16x^2 - 10x &=0\\
-8x^2-5x&=0
-x= 
+8x^2-5x&=0\\
+x(8x-5)&=0\\
+x=0 &\text{ or } x=\frac{8}{5}
 \end{align*}
 $$
-
-Combine like terms and move everything to one side:
-
-$$ 0 = 16x^2 - 16x + 4 - 6x + 2 $$
-
-$$ 16x^2 - 22x + 6 = 0 $$
-
-Divide through by 2 to simplify:
-
-$$ 8x^2 - 11x + 3 = 0 $$
-
-Factor the quadratic equation:
-
-$$ (8x - 3)(x - 1) = 0 $$
-
-Set each factor equal to zero and solve for $$ x $$:
-
-$$ 8x - 3 = 0 \quad \text{or} \quad x - 1 = 0 $$
-
-$$ x = \frac{3}{8} \quad \text{or} \quad x = 1 $$
-
-Therefore, the solutions are $$ x = \frac{3}{8} $$ and $$ x = 1 $$.
-
-**Criteria C Question: Why do we factorise before clearing the fractions**
-
-If we were to clear the fractions without factorising, we'd have to multiply by the least common denominator $$ (4x^2 - 4x + 1)(2x - 1) $$, which is more complex and could lead to more complicated algebra than necessary. Recognizing the square trinomial simplifies this to just $$ (2x - 1)^2 $$, making the algebra more manageable.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDE3MzM1MiwtMTMxNzg2NjgzNCwxND
-U0NTAzMjg0LDEyOTQ3MTU5MTJdfQ==
+eyJoaXN0b3J5IjpbNjU1NDgwMjc3LC0xMzE3ODY2ODM0LDE0NT
+Q1MDMyODQsMTI5NDcxNTkxMl19
 -->
