@@ -129,10 +129,11 @@ $$
 
 ## Practice 4.1
 **Problem**
-Solve
+Find the value of $3^x$ if
 $$
-3^x - \sqrt{3}}^{x+4} + 20 = 0
+3^x - \left(\sqrt{3}\right)^{x+4} + 20 = 0
 $$
+**Answe**
 
 
 
@@ -297,7 +298,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkwMzk5ODMsLTc5ODUwNDEyMSwxOD
+eyJoaXN0b3J5IjpbLTEzMzQ1NDA1NzMsLTc5ODUwNDEyMSwxOD
 A5NTgzNjc5LC0xNTIyMTQxODEzLDEwMzM3NDIwNjAsMTQxMDk1
 NzYxOCwtMjY4MDUyMTE0LDIwNjA2MzMyNjldfQ==
 -->
