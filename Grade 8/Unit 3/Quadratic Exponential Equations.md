@@ -116,8 +116,10 @@ $$
 2y^2-24y+64&=0\\
 y^2-12y+32&=0\\
 (y-4)(y-8)&=0\\
-y=4 \text{ or } y=8
 \end{align*}
+y=4 \text{ or } y=8\\
+2^x=16 \text{ or } 2^x=64
+
 $$ 
 
 
@@ -282,7 +284,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzUyMTc5MywxODA5NTgzNjc5LC0xNT
+eyJoaXN0b3J5IjpbLTQxNzAwNzc4MiwxODA5NTgzNjc5LC0xNT
 IyMTQxODEzLDEwMzM3NDIwNjAsMTQxMDk1NzYxOCwtMjY4MDUy
 MTE0LDIwNjA2MzMyNjldfQ==
 -->
