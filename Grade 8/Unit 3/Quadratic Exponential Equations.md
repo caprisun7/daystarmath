@@ -102,12 +102,18 @@ x&=-1 \text{ or } x=1
 $$
 
 ## Practice 3.1
+**Problem**
+
+**Answer**
 
 ## Example 4
 **Problem**  
 Solve $$ 2^{x+1} - 24\sqrt{2^x} + 64 = 0 $$.  
 **Solution** 
-$$ x = 4 $$ 
+$$
+\begin{align*}
+\end{align*}
+$$ 
 
 
 
@@ -271,7 +277,7 @@ $$ 6x - 4 = -3x + 3 $$,
 
 $$ x = \frac{7}{9} $$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTU4MzY3OSwtMTUyMjE0MTgxMywxMD
-MzNzQyMDYwLDE0MTA5NTc2MTgsLTI2ODA1MjExNCwyMDYwNjMz
-MjY5XX0=
+eyJoaXN0b3J5IjpbLTIwMDE3NTI3LDE4MDk1ODM2NzksLTE1Mj
+IxNDE4MTMsMTAzMzc0MjA2MCwxNDEwOTU3NjE4LC0yNjgwNTIx
+MTQsMjA2MDYzMzI2OV19
 -->
