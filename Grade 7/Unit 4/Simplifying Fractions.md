@@ -239,8 +239,6 @@ $$
 \frac{4(p - 3)}{5p - 7}
 $$
 
-
-
 ## Practice 6.2
 
 **Problem**
@@ -259,5 +257,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk2MDY4NzFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTcxMzg0M119
 -->
