@@ -7,11 +7,7 @@ grand_parent: Grade 7 Standard
 nav_order: 1
 ---
 
-# Expanding Expressions of the Form $$(x + a)(x + b)$$
-
-## Introduction
-
-When we have an expression in the form $$(x + a)(x + b)$$, where $$a$$ and $$b$$ are constants (which can be positive or negative), we can expand it using the distributive law. This process involves multiplying each term in the first bracket by each term in the second bracket and then combining like terms.
+# Expanding Double Brackets
 
 ## Example 1: Both $$a$$ and $$b$$ are Positive
 
@@ -150,3 +146,6 @@ $$ x^3 + 5x^2 + 2x - 8 $$.
 **Question 5:**  
 
 $$ 2m^3 + m^2 - 18m - 9 $$. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI0NzQ1MDkwMl19
+-->
