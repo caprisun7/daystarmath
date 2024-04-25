@@ -135,6 +135,13 @@ $$
 
 **Problem**
 
+$$
+\frac{7k^4}{2p^2 + p} \div \frac{35p^k}{4p^3 + 2p^2}
+$$
+
+**Answer**
+
+
 
 
 
@@ -144,6 +151,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTcxNjcwMSwtMTUwMjYzMTY0OCwyMz
-EwMDM2OTMsLTE3OTI0MzQzMjgsNDMzNjUxMzQ2XX0=
+eyJoaXN0b3J5IjpbLTEzMzYzMDUzMTYsLTE1MDI2MzE2NDgsMj
+MxMDAzNjkzLC0xNzkyNDM0MzI4LDQzMzY1MTM0Nl19
 -->
