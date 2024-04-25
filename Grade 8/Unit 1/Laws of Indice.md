@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LawsOfIndices
+title: Laws of Indices
 permalink: "/grade8/LawsOfIndices"
 parent: Unit 1
 grand_parent: Grade 8 Higher
