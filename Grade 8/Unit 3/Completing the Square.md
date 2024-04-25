@@ -4,7 +4,7 @@ title: Completing the Sqaure
 permalink: "/grade8/CompletingtheSquare"
 parent: Unit 3
 grand_parent: Grade 8 Higher
-nav_order: 3
+nav_order: 1
 ---
 
 # Completing the Square: Concept and Examples
@@ -118,5 +118,5 @@ To complete the square, it's necessary to use the formula $$ (x + a)^2 $$, which
    - $$ x - \frac{5}{2} = \pm\frac{1}{2} $$
    - $$ x = \frac{5}{2} \pm\frac{1}{2} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIwNjIzOThdfQ==
+eyJoaXN0b3J5IjpbOTQ0MjkwNjI0LC0xMTcyMDYyMzk4XX0=
 -->
