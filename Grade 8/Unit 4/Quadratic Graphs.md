@@ -59,7 +59,7 @@ Sketch the graph of $y=2x^2+4x-6$, showing clearly the intercepts and coordinate
 
 **Problem**
 
-Sketch the graph of $y = -x^2 - 3x + 4$ indicating clearly its intercepts with the axes and its turning point.
+Sketch the graph of $$y = -x^2 - 3x + 4$$ indicating clearly its intercepts with the axes and its turning point.
 
 **Solution**
 
@@ -82,28 +82,37 @@ $$
 </p>
 
 ## Practice 2.1
+
 **Problem**
+
 Sketch the graph of $y = -x^2 +3x + 4$ indicating clearly its intercepts with the axes and its turning point.
 
 **Answer**
+
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczMzWRHMfqcovFMd3PltjG-adRybdP0rIoSDGj3dIYPZ12g4Ql7BVEH1kN0iNM-LAdUzyp43-h8wG2zAV9aHxN0iGVwJFPqCOdjmjWtsSgNuXB6U3ipcrEmxPXheuAY4zrisGV-HJRdoSTKwD55K6Ahw=w1084-h716-s-no?authuser=0" width="400">
 </p>
 
 
 ## Practice 2.2
+
 **Problem**
+
 Sketch the graph of $y = -2x^2 + 3x + 1$, showing clearly the x-intercepts, y-intercept and turning point.
 
 **Answer**
+
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczMduxQhjQtsfTk8ABvOVc-2DWiUJU1BL2Ie6Is5NrfAs6vyS7_ZkVGmD0CsihKfhpwAu3Idh215VHONlC4ACfMNsSW8coXti3g6-z3uLYQcdRF8UCDl2fevu3TraeHgEK1kVebP9mpoBulZV8AzfoJh=w614-h234-s-no?authuser=0" width="400">
 </p>
 
 
 ## Example 3: No Constant Term
+
 **Problem**
-Sketch the graph of  $y = 4x - x^2$, showing the line of symmetry.
+
+Sketch the graph of  $$y = 4x - x^2$$, showing the line of symmetry.
 
 **Solution**
+
 $$
 \begin{align*}
 &y=-(x^2-4x) \\
@@ -117,10 +126,12 @@ $$
 \Rightarrow \ & \text{x-intercepts are} \ 0 \ \text{and} \ 4 \\ 
 \end{align*}
 $$
+
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczOnrAn48VghWW-U1cNQj-whxL_teYf2FozIRQnPp5pHwsOYaBVR7VoW8q50kjI-zhyTrVTQlXWgTlP5ZIliheBCWjr5_souGZ7QcNelvCfEFoOJXvYESh7yqgbbR1tBm43cnBatBgf1dzXjl1Yu1-54=w876-h472-s-no?authuser=0" width="400">
 </p>
 
 ## Practice 3.1
+
 **Problem**
 Sketch the graph of $y = –x^2  − 5x$, showing the axis intercepts and the coordinate of vertex.
 
@@ -136,6 +147,7 @@ Sketch the graph of $y = –7x^2  − \frac{17}{2}x$, showing the <p align="cent
 
  
 ## Example 4: Factorised Form
+
 **Problem**
 Sketch the graph $y=(x-1)(x+5)$
 
@@ -149,10 +161,12 @@ $$
 \Rightarrow \ & \text{Coordinate of turning point is } (-2,-9)
 \end{align*}
 $$
+
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczPbLmFMB4874XQHz-SL2SFUH_SwGPCEvA-KSO33icpHL8CAK5nnytbj9a0DSoSv5MYRopzlp3l6hHMPo0UBQKHrcI9cpP5LGQck6lIq00dO6kayrba397U6QhtXs0SBlpg6o9oljdvfntorCEBbzXka=w1128-h392-s-no?authuser=0" width="400">
 </p>
 
 ## Practice 4.1
+
 **Problem**
 Sketch the graph $y=-(x-1)(x+5)$
 
@@ -189,6 +203,7 @@ Sketch the graph $y=-2(1-2x)(5-3x)$
 
 
 ## Example 5: Complete Square Form
+
 **Problem**
 Sketch the graph $y=(x-2)^2-4$, showing the axis of symmetry
 
@@ -205,6 +220,7 @@ $$
 </p>
 
 ## Practice 5.1
+
 **Problem**
 Sketch the graph of $y = 1-(x+\frac{3}{2})^2$, showing the axis intercepts and the line of symmetry.
 
@@ -213,6 +229,7 @@ Sketch the graph of $y = 1-(x+\frac{3}{2})^2$, showing the axis intercepts and t
 </p>
 
 ## Practice 5.2
+
 **Problem**
 Sketch the graph of $y = -5+(1-x)^2$, showing the coordinate of the vertex.
 
@@ -229,5 +246,5 @@ Sketch the graph of $y = x^2+\frac{57}{10}$, showing the axis y-intercepts and t
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczNbIQy-VnqchwvOR5pRA3PKuFvCYbqVz-DjW8VzJsRKhEEqUIFD0J2qap0UPU2b1_xbTu8DB2kchuoQBgz1qdxwlh8UPdb-nWI1QL7eceFwNAuLbpCW33qVrNIHcOBlW9b6gqw2f0TJY6QBgWurW88-=w870-h518-s-no?authuser=0" width="400">
 </p> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDA4MDc1OCwyMDk5MzQwNzkxXX0=
+eyJoaXN0b3J5IjpbLTIxMTYwMjMyOTgsMjA5OTM0MDc5MV19
 -->
