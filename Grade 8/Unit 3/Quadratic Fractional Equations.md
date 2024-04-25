@@ -44,6 +44,7 @@ $$
 Solve $$ \frac{x+2}{x^2-5x+6} - \frac{x}{4x-12} = \frac{13}{8} $$.
 
 **Answer**
+$$x=1 \text{ or } x=\frac{62}{1}
 
 ## Example 2
 
@@ -88,7 +89,7 @@ x = \frac{1}{12} (35 + \sqrt{601})
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk4NjIyNjUsMjYwOTA3MjYzLC05MD
-M2MDg2NzgsNjU1NDgwMjc3LC0xMzE3ODY2ODM0LDE0NTQ1MDMy
-ODQsMTI5NDcxNTkxMl19
+eyJoaXN0b3J5IjpbNzI4MDYxNjAxLDI2MDkwNzI2MywtOTAzNj
+A4Njc4LDY1NTQ4MDI3NywtMTMxNzg2NjgzNCwxNDU0NTAzMjg0
+LDEyOTQ3MTU5MTJdfQ==
 -->
