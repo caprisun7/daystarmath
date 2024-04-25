@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Unit 3
-permalink: "/grade7/unit3"
-nav_order: 3
+title: Unit 4
+permalink: "/grade7/unit4"
+nav_order: 4
 parent: Grade 7 Standard
 has_children: true
 ---
