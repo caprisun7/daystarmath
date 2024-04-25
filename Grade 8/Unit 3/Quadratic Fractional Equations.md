@@ -30,6 +30,11 @@ p = 4.5 \quad &\text{or} \quad p = -4 \\
 \end{align*}
 $$
 
+## Practice 1.1
+**Problem**
+Solve $$ \frac{20}{x} - \frac{20}{x+3} = 4 $$.
+**Answer**
+
 ## Example 2
 
 **Problem:**
@@ -59,6 +64,7 @@ Solve $$ \frac{x+1}{3-2x} - \frac{3x-14}{4x^2-9} = 0 $$.
 **Answer**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzYwODY3OCw2NTU0ODAyNzcsLTEzMT
-c4NjY4MzQsMTQ1NDUwMzI4NCwxMjk0NzE1OTEyXX0=
+eyJoaXN0b3J5IjpbMTY5NTU5ODQ4NSwtOTAzNjA4Njc4LDY1NT
+Q4MDI3NywtMTMxNzg2NjgzNCwxNDU0NTAzMjg0LDEyOTQ3MTU5
+MTJdfQ==
 -->
