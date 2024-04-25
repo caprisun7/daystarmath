@@ -48,6 +48,7 @@ $$
 **Problem**
 
 Simiplify
+
 $$ 
 (a^3 b^4) \times (b c^4) \div (a^4 b^2 c)
 $$
@@ -62,7 +63,8 @@ $$
 
 **Problem**
 
-Simplify 
+Simplify
+
 $$
 \frac{(-4ab^3)^2 \cdot (-24a^2b)}{-8a^3b^5}
 $$
