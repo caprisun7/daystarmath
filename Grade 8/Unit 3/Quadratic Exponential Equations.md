@@ -10,10 +10,13 @@ nav_order: 3
 # Solving Quadratic Exponential Equations
 
 ## Example 1
+
 **Problem**
+
 Solve the equation $$2(9^{x-1}) - 5(3^{x}) = 27$$.
 
 **Solution**
+
 $$
 \begin{align*}
 2(9^{x-1}) - 5(3^{x}) &= 27 \\
@@ -21,6 +24,7 @@ $$
 \frac{2}{9}(3^{x})^2 -5(3^{x}) &= 27
 \end{align*}
 $$
+
 Let $a = 3^{x}$.
 
 $$
@@ -46,25 +50,38 @@ Since $3^{x} > 0$, $x = 3$.
 
 
 ## Practice 1.1
+
 **Problem**
+
 Solve the equation $$9^{x} - 10(3^{x}) + 1 = 0$$.
 
 **Answer**
+
 $$x=-2 \text{ or } 0$$
 
 ## Practice 1.2
+
 **Problem**
+
 Use an appropriate substitution, or otherwise, solve 
 $$ 7^{2x+1} + 20(7^x) = 3 $$.
+
 **Answer**  
+
 $$ x = -1 $$
 
 
 
 ## Example 2
-**Problem:** By using a suitable substitution, solve the equation $$ 2^{3+2x} + 2^{5+x} = 2^x + 4 $$.
+
+**Problem:** 
+
+By using a suitable substitution, solve the equation 
+
+$$ 2^{3+2x} + 2^{5+x} = 2^x + 4 $$.
 
 **Solution**
+
 $$
 \begin{align*}
 2^3 \cdot (2^x)^2 + 2^5 \cdot 2^x &= 2^x + 4 \\
@@ -80,15 +97,23 @@ x=-3
 $$
 
 ## Practice 2.1
+
 **Problem**
+
 Find the values of x such that $$ 3^{2x} - 3^{x+2} = 3^x - 9 $$.  
+
 **Answer** 
+
 $$ x = 0 \text{ or }x = 2 $$
 
 ## Example 3
+
 **Problem**
+
 Solve $$5^{x+1}=26-5^{1-x}$$
+
 **Solution**
+
 $$
 \begin{align*}
 5\cdot5^x&=26-5\cdot5^{-x}\\
@@ -102,19 +127,28 @@ x&=-1 \text{ or } x=1
 $$
 
 ## Practice 3.1
+
 **Problem**
+
 Solve
 $$
 2^{x+3}+2^{-x}=9
 $$
 
 **Answer**
+
 $$-3 \text{ or } 0$$
 
 ## Example 4
+
 **Problem**  
-Solve $$ 2^{x+1} - 24\sqrt{2^x} + 64 = 0 $$.  
+
+Solve 
+
+$$ 2^{x+1} - 24\sqrt{2^x} + 64 = 0 $$.  
+
 **Solution** 
+
 $$
 \begin{align*}
 2\cdot2^x-24\sqrt{2^x}+64&=0\\
@@ -133,15 +167,21 @@ x=4 &\text{ or } x=6\\
 $$ 
 
 ## Practice 4.1
+
 **Problem**
+
 Find the value of $3^x$ if
+
 $$
 3^x - \left(\sqrt{3}\right)^{x+4} + 20 = 0
 $$
+
 **Answer**
+
 $$16 \text{ or } 25$$
 
 ## Example 5
+
 **Problem**
 Given that $y = 3^x$, express $$3^{2x} + 81^{\frac{1}{4}(x+2)}-9^{\frac{1}{2}(x+1)}$$ in term of y.
 
@@ -162,8 +202,8 @@ Given that $u = 3^x$, express $9^{x-2}$ in terms of $u$.
 **Answer**
 $$\frac{u^2}{81}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MDcyMzc3LC04NDAyMzU4MjMsLTc2MT
-QwNjI1NSwtNzk4NTA0MTIxLDE4MDk1ODM2NzksLTE1MjIxNDE4
-MTMsMTAzMzc0MjA2MCwxNDEwOTU3NjE4LC0yNjgwNTIxMTQsMj
-A2MDYzMzI2OV19
+eyJoaXN0b3J5IjpbNjUwMTczODUzLDMzOTA3MjM3NywtODQwMj
+M1ODIzLC03NjE0MDYyNTUsLTc5ODUwNDEyMSwxODA5NTgzNjc5
+LC0xNTIyMTQxODEzLDEwMzM3NDIwNjAsMTQxMDk1NzYxOCwtMj
+Y4MDUyMTE0LDIwNjA2MzMyNjldfQ==
 -->
