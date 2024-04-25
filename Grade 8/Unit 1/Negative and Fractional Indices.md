@@ -241,7 +241,9 @@ Simplify
 
 $$
 \left( \frac{e^2 \cdot \sqrt{e^{\frac{1}{4}}}}{\sqrt[3]{e}}\right)^2
-$$ and express your answers in positive indices.
+$$ 
+
+and express your answers in positive indices.
 
 **Solution**
 
@@ -271,9 +273,11 @@ $$ab$$
 **Problem**
 
 Simiplify
+
 $$
 \sqrt\frac{16a^2}{b^4} \div \left(\frac{a^4c^{-6}}{16b^2}\right)^\frac{3}{2},
 $$
+
 leave your answer in positive index.
 
 **Solution**
@@ -321,7 +325,11 @@ $$
 
 **Problem**
 
-Simplify $$\sqrt[3]{\sqrt{64x^2}}$$ and express your answer with positive indices.
+Simplify 
+
+$$\sqrt[3]{\sqrt{64x^2}}$$ 
+
+and express your answer with positive indices.
 
 **Solution**
 
@@ -345,6 +353,3 @@ $$
 **Answer**
 
 $$s^{\frac{}{}}$$
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTM4NTg5XX0=
--->
