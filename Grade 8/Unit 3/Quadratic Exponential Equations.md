@@ -4,7 +4,7 @@ title: Quadratic Exponential Equations
 permalink: "/grade8/QuadraticExponentialEquations"
 parent: Unit 3
 grand_parent: Grade 8 Higher
-nav_order: 7
+nav_order: 3
 ---
 
 # Solving Quadratic Exponential Equations
@@ -162,8 +162,8 @@ Given that $u = 3^x$, express $9^{x-2}$ in terms of $u$.
 **Answer**
 $$\frac{u^2}{81}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Mjk0OTY0MywtODQwMjM1ODIzLC03Nj
-E0MDYyNTUsLTc5ODUwNDEyMSwxODA5NTgzNjc5LC0xNTIyMTQx
-ODEzLDEwMzM3NDIwNjAsMTQxMDk1NzYxOCwtMjY4MDUyMTE0LD
-IwNjA2MzMyNjldfQ==
+eyJoaXN0b3J5IjpbMzM5MDcyMzc3LC04NDAyMzU4MjMsLTc2MT
+QwNjI1NSwtNzk4NTA0MTIxLDE4MDk1ODM2NzksLTE1MjIxNDE4
+MTMsMTAzMzc0MjA2MCwxNDEwOTU3NjE4LC0yNjgwNTIxMTQsMj
+A2MDYzMzI2OV19
 -->
