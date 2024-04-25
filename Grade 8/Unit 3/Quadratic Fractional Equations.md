@@ -77,9 +77,13 @@ $$
 Solve $$ \frac{2+x}{6x^2-23x+20} - \frac{1}{5-2x} = \frac{1}{3} $$.
 
 **Answer**
+$$
+x = \frac{1}{12} (35 - \sqrt{601}) \text{ or } 
+x = \frac{1}{12} (35 + \sqrt{601})
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzYwNTAxMSwyNjA5MDcyNjMsLTkwMz
+eyJoaXN0b3J5IjpbMTE3MjI1NTI0OSwyNjA5MDcyNjMsLTkwMz
 YwODY3OCw2NTU0ODAyNzcsLTEzMTc4NjY4MzQsMTQ1NDUwMzI4
 NCwxMjk0NzE1OTEyXX0=
 -->
