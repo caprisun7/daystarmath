@@ -92,6 +92,11 @@ $$
 
 **Answer**
 
+$$
+\frac{2a^2c}{9bx}
+$$
+
+
 
 
 
@@ -100,6 +105,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAzNDg4NTgsLTE3OTI0MzQzMjgsND
-MzNjUxMzQ2XX0=
+eyJoaXN0b3J5IjpbMjE5MjY4ODc3LC0xNzkyNDM0MzI4LDQzMz
+Y1MTM0Nl19
 -->
