@@ -140,6 +140,15 @@ $$
 $$
 
 **Answer**
+$$
+\frac{2k^3}{5}
+$$
+
+## Practice 3.3
+
+**Problem**
+
+
 
 
 
@@ -151,6 +160,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzYzMDUzMTYsLTE1MDI2MzE2NDgsMj
-MxMDAzNjkzLC0xNzkyNDM0MzI4LDQzMzY1MTM0Nl19
+eyJoaXN0b3J5IjpbLTczNjMzNTkxOSwtMTUwMjYzMTY0OCwyMz
+EwMDM2OTMsLTE3OTI0MzQzMjgsNDMzNjUxMzQ2XX0=
 -->
