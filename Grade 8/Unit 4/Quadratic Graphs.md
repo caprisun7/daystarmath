@@ -1,3 +1,12 @@
+---
+layout: default
+title: Quadratic Graphs
+permalink: "/grade8/Quadratic Graphs"
+parent: Unit 4
+grand_parent: Grade 8 Higher
+nav_order: 1
+---
+
 # Quadratic Graphs
 ## Example 1: Minimum Quadratic
 **Problem**
