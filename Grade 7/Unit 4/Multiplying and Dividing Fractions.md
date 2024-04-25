@@ -80,7 +80,9 @@ $$
 
 $$1$$
 
-## Practice 2.2
+
+
+## Example 3
 
 **Problem**
 
@@ -105,6 +107,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5MjY4ODc3LC0xNzkyNDM0MzI4LDQzMz
+eyJoaXN0b3J5IjpbMjMxMDAzNjkzLC0xNzkyNDM0MzI4LDQzMz
 Y1MTM0Nl19
 -->
