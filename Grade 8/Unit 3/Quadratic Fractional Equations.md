@@ -4,7 +4,7 @@ title: Quadratic Fractional Equations
 permalink: "/grade8/QuadraticFractionalEquations"
 parent: Unit 3
 grand_parent: Grade 8 Higher
-nav_order: 5
+nav_order: 2
 ---
 
 ## Example 1
@@ -89,7 +89,7 @@ x = \frac{1}{12} (35 + \sqrt{601})
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTA1OTAwOCwyNjA5MDcyNjMsLTkwMz
+eyJoaXN0b3J5IjpbMjEwMzI5MjA2NywyNjA5MDcyNjMsLTkwMz
 YwODY3OCw2NTU0ODAyNzcsLTEzMTc4NjY4MzQsMTQ1NDUwMzI4
 NCwxMjk0NzE1OTEyXX0=
 -->
