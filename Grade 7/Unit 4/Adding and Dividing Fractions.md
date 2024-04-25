@@ -10,6 +10,10 @@ $$
 \frac{2x^2 + x - 1}{-4x^2 - 3x + 1} \times \frac{1 - 16x^2}{2x^2 - x}
 $$
 
+**Solution**
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDg1MjU4MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTYyNjk0MDE5NiwtMjA4ODc0NjYxMl19
 -->
