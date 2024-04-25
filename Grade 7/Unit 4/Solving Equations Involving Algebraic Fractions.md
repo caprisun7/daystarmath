@@ -59,12 +59,15 @@ $$2\frac{1}{6}$$
 ## Example 2
 
 **Problem**
+
 Solve the equation
+
 $$
 \frac{7}{3x - 1} = \frac{8}{x + 5}
 $$
 
 **Solution**
+
 $$
 \begin{align*}
 \frac{7}{3x-1} &= \frac{8}{x+5} \\
@@ -78,13 +81,17 @@ x &= 2\frac{9}{17}
 $$
 
 ## Example 3
+
 **Problem**
+
 Solve
+
 $$
 \frac{2}{x - 5} = \frac{8 - 3x}{x^2 - 25}
 $$
 
 **Solution**
+
 $$
 \begin{align*}
 \frac{2}{x - 5} &= \frac{8 - 3x}{x^2 - 25} \\
@@ -98,13 +105,17 @@ x &= -\frac{2}{5}
 $$
 
 ## Example 4
+
 **Problem**
+
 Solve
+
 $$
 \frac{3}{x-4} - \frac{x-5}{(x-4)(2x+3)} = \frac{4}{2x+3}
 $$
 
 **Solution**
+
 $$
 \begin{align*}
 \frac{3}{x-4} - \frac{x-5}{(x-4)(2x+3)} &= \frac{4}{2x+3} \\
@@ -120,13 +131,17 @@ x &= -30
 $$
 
 ## Example 5
+
 **Problem**
+
 Solve
+
 $$
 \frac{4x}{2x-3} - 2 = \frac{1}{2-3x}
 $$
 
 **Solution**
+
 $$
 \begin{align*}
 \frac{4x}{2x-3} - 2 &= \frac{1}{2-3x} \\
@@ -144,5 +159,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjgxMTEzNF19
+eyJoaXN0b3J5IjpbLTE3MjUyMjA2OTJdfQ==
 -->
