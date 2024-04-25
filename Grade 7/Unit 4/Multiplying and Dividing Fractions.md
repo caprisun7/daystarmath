@@ -118,12 +118,22 @@ $$
 ## Practice 3.1
 
 **Problem**
+
 Simplify
 
 $$
 \frac{1}{2(t - 3)} \div \frac{t + 3}{t^2 - 9}
 $$
 
+**Answer**
+
+$$
+\frac{1}{2}
+$$
+
+## Practice 3.2
+
+**Problem**
 
 
 
@@ -134,6 +144,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAwMDcxOTksLTE1MDI2MzE2NDgsMj
-MxMDAzNjkzLC0xNzkyNDM0MzI4LDQzMzY1MTM0Nl19
+eyJoaXN0b3J5IjpbMTU2OTcxNjcwMSwtMTUwMjYzMTY0OCwyMz
+EwMDM2OTMsLTE3OTI0MzQzMjgsNDMzNjUxMzQ2XX0=
 -->
