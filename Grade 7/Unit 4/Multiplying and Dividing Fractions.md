@@ -70,7 +70,19 @@ $$
 
 **Problem**
 
+Simplify
+
+$$
+\frac{2a - 1}{2a + 1} \div \frac{(2a - 1)^2}{4a^2 - 1}
+$$
+
 **Answer**
+
+$$1$$
+
+## Practice 2.2
+
+**Problem**
 
 
 
@@ -80,5 +92,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mzg2NTY4MCw0MzM2NTEzNDZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTI0MzQzMjgsNDMzNjUxMzQ2XX0=
 -->
