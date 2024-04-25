@@ -12,6 +12,7 @@ nav_order: 4
 **Problem**
 
 Simplify 
+
 $$\frac{3}{x+1} - \frac{1}{2x+2} = 5$$.
 
 **Solution**
@@ -36,7 +37,9 @@ $$
 
 **Problem**
 
-Solve $$\frac{2x+7}{x-5} + \frac{5(x-2)}{5-x} = -13$$.
+Solve 
+
+$$\frac{2x+7}{x-5} + \frac{5(x-2)}{5-x} = -13$$.
 
 **Answer**
 
@@ -46,7 +49,9 @@ $$4\frac{4}{5}$$
 
 **Problem**
 
-Solve $$\frac{1}{3x-2} - \frac{2x}{6-9x} = 3$$.
+Solve 
+
+$$\frac{1}{3x-2} - \frac{2x}{6-9x} = 3$$.
 
 **Answer**
 
@@ -168,5 +173,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjUyMjA2OTJdfQ==
+eyJoaXN0b3J5IjpbNjEyNTA5MDcsLTE3MjUyMjA2OTJdfQ==
 -->
