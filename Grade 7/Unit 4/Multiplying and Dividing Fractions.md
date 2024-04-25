@@ -1,3 +1,12 @@
+---
+layout: default
+title: Multiplying and Dividing Fractions
+permalink: "/grade7/MultiplyingAndDividingFractions"
+parent: Unit 4
+grand_parent: Grade 7 Standard
+nav_order: 3
+---
+
 # Multiplying and Dividing Fractions
 
 ## Example 1
