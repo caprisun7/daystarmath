@@ -13,7 +13,7 @@ nav_order: 1
 
 **Problem**
 
-Sketch the graph of $y = x^2 - 6x + 2$ indicating clearly its intercepts with the axes and its turning point.
+Sketch the graph of $$y = x^2 - 6x + 2$$ indicating clearly its intercepts with the axes and its turning point.
 
 **Solution**
 
@@ -36,7 +36,7 @@ $$
 
 **Problem**
 
-Sketch the graph of $y=x^2-8x+2$, showing clearly the x-intercepts and coordinate of vertex.
+Sketch the graph of $$y=x^2-8x+2$$, showing clearly the x-intercepts and coordinate of vertex.
 
 **Answer**
 
@@ -47,7 +47,7 @@ Sketch the graph of $y=x^2-8x+2$, showing clearly the x-intercepts and coordinat
 
 **Problem**
 
-Sketch the graph of $y=2x^2+4x-6$, showing clearly the intercepts and coordinate of turning point.
+Sketch the graph of $$y=2x^2+4x-6$$, showing clearly the intercepts and coordinate of turning point.
 
 **Answer**
 
@@ -85,7 +85,7 @@ $$
 
 **Problem**
 
-Sketch the graph of $y = -x^2 +3x + 4$ indicating clearly its intercepts with the axes and its turning point.
+Sketch the graph of $$y = -x^2 +3x + 4$$ indicating clearly its intercepts with the axes and its turning point.
 
 **Answer**
 
@@ -97,7 +97,7 @@ Sketch the graph of $y = -x^2 +3x + 4$ indicating clearly its intercepts with th
 
 **Problem**
 
-Sketch the graph of $y = -2x^2 + 3x + 1$, showing clearly the x-intercepts, y-intercept and turning point.
+Sketch the graph of $$y = -2x^2 + 3x + 1$$, showing clearly the x-intercepts, y-intercept and turning point.
 
 **Answer**
 
@@ -133,7 +133,7 @@ $$
 ## Practice 3.1
 
 **Problem**
-Sketch the graph of $y = –x^2  − 5x$, showing the axis intercepts and the coordinate of vertex.
+Sketch the graph of $$y = –x^2  − 5x$$, showing the axis intercepts and the coordinate of vertex.
 
 **Answer**
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczO47mFQ77omhy2Ydz8W065s14ws0OfW9pH9Vc0PchoSSD5zXLVkTcNO37ixyBK-IIukZRFc1Q2GB0ZCD-5VBetUJ1z2sJNHcmY0-4yvxgL5qFSxxXwrheVbC-TAkcrhYQABPh4n0VOY5sYuXO55Sb8U=w702-h320-s-no?authuser=0" width="400">
@@ -149,7 +149,7 @@ Sketch the graph of $y = –7x^2  − \frac{17}{2}x$, showing the <p align="cent
 ## Example 4: Factorised Form
 
 **Problem**
-Sketch the graph $y=(x-1)(x+5)$
+Sketch the graph $$y=(x-1)(x+5)$$
 
 **Solution**
 $$
@@ -251,6 +251,6 @@ Sketch the graph of $$y = x^2+\frac{57}{10}$$, showing the axis y-intercepts and
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczNbIQy-VnqchwvOR5pRA3PKuFvCYbqVz-DjW8VzJsRKhEEqUIFD0J2qap0UPU2b1_xbTu8DB2kchuoQBgz1qdxwlh8UPdb-nWI1QL7eceFwNAuLbpCW33qVrNIHcOBlW9b6gqw2f0TJY6QBgWurW88-=w870-h518-s-no?authuser=0" width="400">
 </p> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTg5NzE5NCwtMTg2MDQyMjg2OCwyMD
+eyJoaXN0b3J5IjpbLTM0NTg5NzI3NiwtMTg2MDQyMjg2OCwyMD
 k5MzQwNzkxXX0=
 -->
