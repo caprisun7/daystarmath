@@ -67,11 +67,10 @@ x = -2 - \sqrt{\frac{19}{2}} \text{ or }
 x = -2 + \sqrt{\frac{19}{2}}
 $$
 
-## Practice 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzY1MTI4OCwtOTAzNjA4Njc4LDY1NT
+eyJoaXN0b3J5IjpbMTk2NTIxMzEwMywtOTAzNjA4Njc4LDY1NT
 Q4MDI3NywtMTMxNzg2NjgzNCwxNDU0NTAzMjg0LDEyOTQ3MTU5
 MTJdfQ==
 -->
