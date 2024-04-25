@@ -4,7 +4,7 @@ title: Solving Equations Involving Fractions
 permalink: "/grade7/SolvingEquationInvolvingFractions"
 parent: Unit 4
 grand_parent: Grade 7 Standard
-nav_order: 2
+nav_order: 4
 ---
 
 ## Example 1: Combining Fractions
