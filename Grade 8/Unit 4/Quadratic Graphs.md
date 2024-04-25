@@ -168,7 +168,7 @@ $$
 ## Practice 4.1
 
 **Problem**
-Sketch the graph $y=-(x-1)(x+5)$
+Sketch the graph $$y=-(x-1)(x+5)$$
 
 **Answer**
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczMcwePUlMEx69GyvhUyTHAE8An-Fa2xwquX7KfRW4hoNU9ViZ56SLwY0o9dNEA0hwsiFY-dDz5mCEkYDCcy-GlZdVoNOXxKMjcAA4RlemZ2T1kX9Dy5-XbD0Rgm_Cpa7_IwsCc0L8R420G8jhZwVFRC=w1118-h452-s-no?authuser=0" width="400">
@@ -177,7 +177,7 @@ Sketch the graph $y=-(x-1)(x+5)$
 ## Practice 4.2
 
 **Problem**
-Sketch the graph $y=(1-x)(x-5)$
+Sketch the graph $$y=(1-x)(x-5)$$
 
 **Answer**
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczN31p7Z0W_7WOJ6aRQxV9Fqw6FR5fNtc7SYQSyFz5hsslmlwYpO4414rI3nfbBjvu52pg0XcWIiigPhkneg3rd3_KcEUIM_66T7GnYiifoadERos2Ve0_WSTJgA98vMOFdGru4qNBcMB6_qvOS4aAax=w934-h310-s-no?authuser=0" width="400">
@@ -186,7 +186,7 @@ Sketch the graph $y=(1-x)(x-5)$
 ## Practice 4.3
 
 **Problem**
-Sketch the graph $y=(1-x)(5-x)$
+Sketch the graph $$y=(1-x)(5-x)$$
 
 **Answer**
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczMUCpVs3KDTe9DnV_P1a15TUGNlttVljqTHO-dK_aGSmcRMgRyA1_sp5s7e1qTr4FZk2tA3-A5K8dhCvSMABBAM5FC4H3wPO4kMWPvEb_VuKM7ZZnO-XODgf6yc6l6hu6DHpjgi6351v6kw61nYRf7e=w832-h312-s-no?authuser=0" width="400">
@@ -195,7 +195,7 @@ Sketch the graph $y=(1-x)(5-x)$
 ## Practice 4.4
 
 **Problem**
-Sketch the graph $y=-2(1-2x)(5-3x)$
+Sketch the graph $$y=-2(1-2x)(5-3x)$$
 
 **Answer**
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczOqyrzd6FixKsDJHb7NxAWQRshArQQA-z3jb-L-FVR5iZyG2j9z0YV1jBNs_jSouD3q1mF4maM8k1Y-SCtJNfcM7krg92TcoFPKds3xFVm0axrXrYhv4AOPXswJfUGqu959ig_e0TgybYeztKSK7h_m=w640-h316-s-no?authuser=0" width="400">
@@ -205,7 +205,7 @@ Sketch the graph $y=-2(1-2x)(5-3x)$
 ## Example 5: Complete Square Form
 
 **Problem**
-Sketch the graph $y=(x-2)^2-4$, showing the axis of symmetry
+Sketch the graph $$y=(x-2)^2-4$$, showing the axis of symmetry
 
 **Solution**
 $$
@@ -222,7 +222,7 @@ $$
 ## Practice 5.1
 
 **Problem**
-Sketch the graph of $y = 1-(x+\frac{3}{2})^2$, showing the axis intercepts and the line of symmetry.
+Sketch the graph of $$y = 1-(x+\frac{3}{2})^2$$, showing the axis intercepts and the line of symmetry.
 
 **Answer**
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczOFGiUnNk6xEX8ln7czoOfLhlocFLAaiMp_r-fK6oiIEyn8UEBq0b0Bxkiv3y2HJo7o5lFKgV6k9nQvU4NKYtuG2D4GKb3u3iEHb7w8M0xZkCYCRfyZHXI89XNeD8FSjeO10jSOhhDHqBFxg6BszlLW=w736-h532-s-no?authuser=0" width="400">
@@ -232,7 +232,7 @@ Sketch the graph of $y = 1-(x+\frac{3}{2})^2$, showing the axis intercepts and t
 
 **Problem**
 
-Sketch the graph of $y = -5+(1-x)^2$, showing the coordinate of the vertex.
+Sketch the graph of $$y = -5+(1-x)^2$$, showing the coordinate of the vertex.
 
 **Answer**
 
@@ -244,12 +244,13 @@ Sketch the graph of $y = -5+(1-x)^2$, showing the coordinate of the vertex.
 
 **Problem**
 
-Sketch the graph of $y = x^2+\frac{57}{10}$, showing the axis y-intercepts and the line of symmetry.
+Sketch the graph of $$y = x^2+\frac{57}{10}$$, showing the axis y-intercepts and the line of symmetry.
 
 **Answer**
 
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczNbIQy-VnqchwvOR5pRA3PKuFvCYbqVz-DjW8VzJsRKhEEqUIFD0J2qap0UPU2b1_xbTu8DB2kchuoQBgz1qdxwlh8UPdb-nWI1QL7eceFwNAuLbpCW33qVrNIHcOBlW9b6gqw2f0TJY6QBgWurW88-=w870-h518-s-no?authuser=0" width="400">
 </p> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA0MjI4NjgsMjA5OTM0MDc5MV19
+eyJoaXN0b3J5IjpbLTc3OTg5NzE5NCwtMTg2MDQyMjg2OCwyMD
+k5MzQwNzkxXX0=
 -->
