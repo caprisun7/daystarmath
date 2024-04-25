@@ -1,3 +1,4 @@
+
 # Simplifying Algebraic Fractions
 
 ## Example 1: Cross Method
@@ -5,7 +6,6 @@
 **Problem**
 
 Simplify 
-
 $$\frac{x^2 + 2x - 8}{x^2 - 7x + 10}$$.
 
 **Solution**
@@ -106,7 +106,9 @@ $$ y+11$$
 
 **Problem**
 
-Simplify $$\frac{3x^3y - 12x^2y}{12xy^2 - 48y^2}$$.
+Simplify 
+
+$$\frac{3x^3y - 12x^2y}{12xy^2 - 48y^2}$$.
 
 **Solution**
 
@@ -171,7 +173,9 @@ $$3h$$
 
 **Problem**
 
-Simplify $$\frac{6(2a-b)}{4(b-2a)}$$
+Simplify 
+
+$$\frac{6(2a-b)}{4(b-2a)}$$
 
 **Solution**
 
@@ -188,7 +192,9 @@ $$
 
 **Problem**
 
-Simplify $$\frac{2a - a^2}{a^2 - 4}$$
+Simplify 
+
+$$\frac{2a - a^2}{a^2 - 4}$$
 
 **Solution**
 
@@ -208,7 +214,6 @@ $$
 Simplify $$\frac{n^2 - 9n + 14}{n^3 - 20n^2 + 36n}$$
 
 **Solution**
-
 $$
 \begin{align*}
 \frac{n^2 - 9n + 14}{n^3 - 20n^2 + 36n} &= \frac{(n - 2)(n - 7)}{n^3 - 20n^2 + 36n} \\
@@ -240,7 +245,9 @@ $$
 
 **Problem**
 
-Simplify $$
+Simplify 
+
+$$
 \frac{21 - 4m - m^2}{3 + 5m - 2m^2}
 $$
 
@@ -249,8 +256,6 @@ $$
 $$
 \frac{m + 7}{2m + 1}
 $$
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTE1MjAwN119
+eyJoaXN0b3J5IjpbLTEwMzk5Mjc1NjcsMTI3OTE1MjAwN119
 -->
