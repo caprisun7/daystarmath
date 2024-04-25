@@ -156,6 +156,9 @@ $$
 
 **Answer**
 
+$$
+\frac{4m}{3n}
+$$
 
 
 
@@ -169,6 +172,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTk0NDYzNCwtMTUwMjYzMTY0OCwyMz
+eyJoaXN0b3J5IjpbMTY5MjI2NjQwNiwtMTUwMjYzMTY0OCwyMz
 EwMDM2OTMsLTE3OTI0MzQzMjgsNDMzNjUxMzQ2XX0=
 -->
