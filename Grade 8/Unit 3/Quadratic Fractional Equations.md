@@ -56,8 +56,9 @@ $$
 **Problem**
 Solve $$ \frac{x+1}{3-2x} - \frac{3x-14}{4x^2-9} = 0 $$.
 
-**Answe**
+**Answer**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjg5NzkxMCw2NTU0ODAyNzcsLTEzMT
+eyJoaXN0b3J5IjpbLTkwMzYwODY3OCw2NTU0ODAyNzcsLTEzMT
 c4NjY4MzQsMTQ1NDUwMzI4NCwxMjk0NzE1OTEyXX0=
 -->
