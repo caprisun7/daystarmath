@@ -52,6 +52,19 @@ $$
 
 **Problem**
 
+Simplify
+$$
+\frac{3p^2 + 5p - 2}{p^2 - 4} \div \frac{3p + 1}{2p - 4}
+$$
+
+**Solution**
+
+$$
+\begin{align*}
+\frac{3p^2 + 5p - 2}{p^2 - 4} \div \frac{3p + 1}{2p - 4} &= \frac{(3p - 1)(p + 2)}{(p - 2)(p + 2)} \times \frac{2(p - 2)}{3p + 1} \\
+&= \frac{3p - 1}{3p + 1}
+\end{align*}
+
 
 
 
@@ -60,5 +73,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzNjUxMzQ2XX0=
+eyJoaXN0b3J5IjpbLTMxNjM1MDI3MSw0MzM2NTEzNDZdfQ==
 -->
