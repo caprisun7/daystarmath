@@ -12,8 +12,19 @@ $$
 
 **Solution**
 
+$$
+\begin{align*}
+ &= \frac{(2x - 1)(x + 1)}{(1 - 4x)(x + 1)} \times \frac{(1 + 4x)(1 - 4x)}{x(2x - 1)} \\
+&= \frac{1 + 4x}{x}
+\end{align*}
+$$
+
+## Practice 1.1
+
+**Example**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjk0MDE5NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEyNzMyODMzMjgsMTYyNjk0MDE5NiwtMj
+A4ODc0NjYxMl19
 -->
