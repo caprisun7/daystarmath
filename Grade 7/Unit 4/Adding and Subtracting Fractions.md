@@ -136,11 +136,15 @@ $$ \frac{5xy}{4} $$
 ## Practice 4.2
 
 **Problem**
+
 Simplify 
+
 $$
 \frac{5y + 10}{2y^2 + y - 6}
 $$
+
 **Solution**
+
 $$
 \begin{aligned}
 &\frac{5y + 10}{2y^2 + y - 6} \\
@@ -150,19 +154,27 @@ $$
 $$
 
 ## Practice 4.3
+
 **Problem**
+
 Simplify
+
 $$
 \frac{9h^2 + 6h}{3h + 2}
 $$
 
 **Answer**
+
 $$3h$$
 
 ## Example 5: Opposite Signs
+
 **Problem**
+
 Simplify $$\frac{6(2a-b)}{4(b-2a)}$$
+
 **Solution**
+
 $$
 \begin{aligned}
 &\frac{6(2a-b)}{4(b-2a)}\\
@@ -173,9 +185,13 @@ $$
 
 
 ## Practice 5.1
+
 **Problem**
+
 Simplify $$\frac{2a - a^2}{a^2 - 4}$$
+
 **Solution**
+
 $$
 \begin{aligned}
 &\frac{2a - a^2}{a^2 - 4} \\
@@ -186,10 +202,13 @@ $$
 $$
 
 ## Example 6: Multi-methods
+
 **Problem**
+
 Simplify $$\frac{n^2 - 9n + 14}{n^3 - 20n^2 + 36n}$$
 
 **Solution**
+
 $$
 \begin{align*}
 \frac{n^2 - 9n + 14}{n^3 - 20n^2 + 36n} &= \frac{(n - 2)(n - 7)}{n^3 - 20n^2 + 36n} \\
@@ -200,13 +219,17 @@ $$
 $$
 
 ## Practice 6.1
+
 **Problem**
+
 Simplify
+
 $$
 \frac{4p^3 - 36}{5p^2 + 8p - 21}.
 $$
 
 **Answer**
+
 $$
 \frac{4(p - 3)}{5p - 7}
 $$
@@ -214,17 +237,20 @@ $$
 
 
 ## Practice 6.2
+
 **Problem**
+
 Simplify $$
 \frac{21 - 4m - m^2}{3 + 5m - 2m^2}
 $$
 
 **Answer**
+
 $$
 \frac{m + 7}{2m + 1}
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDA2MjE1OV19
+eyJoaXN0b3J5IjpbMTI3OTE1MjAwN119
 -->
