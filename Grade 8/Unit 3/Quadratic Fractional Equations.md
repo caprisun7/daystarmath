@@ -77,8 +77,9 @@ $$
 Solve $$ \frac{2+x}{6x^2-23x+20} - \frac{1}{5-2x} = \frac{1}{3} $$.
 
 **Answer**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwOTA3MjYzLC05MDM2MDg2NzgsNjU1ND
-gwMjc3LC0xMzE3ODY2ODM0LDE0NTQ1MDMyODQsMTI5NDcxNTkx
-Ml19
+eyJoaXN0b3J5IjpbLTYzNzYwNTAxMSwyNjA5MDcyNjMsLTkwMz
+YwODY3OCw2NTU0ODAyNzcsLTEzMTc4NjY4MzQsMTQ1NDUwMzI4
+NCwxMjk0NzE1OTEyXX0=
 -->
