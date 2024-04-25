@@ -213,6 +213,7 @@ $$
 Simplify $$\frac{n^2 - 9n + 14}{n^3 - 20n^2 + 36n}$$
 
 **Solution**
+
 $$
 \begin{align*}
 \frac{n^2 - 9n + 14}{n^3 - 20n^2 + 36n} &= \frac{(n - 2)(n - 7)}{n^3 - 20n^2 + 36n} \\
@@ -258,5 +259,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDczMTk2M119
+eyJoaXN0b3J5IjpbLTEwMzk2MDY4NzFdfQ==
 -->
