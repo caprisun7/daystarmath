@@ -19,7 +19,7 @@ $$a^{-n}=\frac{1}{a^n}$$
 
 Explain why the followings are true:
 
-a) $$(\frac{a}{b})^{-n}=\frac{b^n}{a^n}$$
+a)  $$(\frac{a}{b})^{-n}=\frac{b^n}{a^n}$$
 
 b) $$\frac{a^{-n}}{b}=\frac{1}{ba^n}$$
 
@@ -142,7 +142,7 @@ $$
 **Problem**
 
 Show that
-
+ 
 $$
 a^\frac{m}{n} = \sqrt[n]{a^m} \text{ or } (\sqrt[n]{a})^m
 $$
@@ -345,3 +345,6 @@ $$
 **Answer**
 
 $$s^{\frac{}{}}$$
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE0MTM4NTg5XX0=
+-->
