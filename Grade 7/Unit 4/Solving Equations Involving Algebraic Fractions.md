@@ -41,7 +41,9 @@ $$
 
 Solve 
 
-$$\frac{2x+7}{x-5} + \frac{5(x-2)}{5-x} = -13$$.
+$$
+\frac{2x+7}{x-5} + \frac{5(x-2)}{5-x} = -13
+$$.
 
 **Answer**
 
@@ -53,7 +55,9 @@ $$4\frac{4}{5}$$
 
 Solve 
 
-$$\frac{1}{3x-2} - \frac{2x}{6-9x} = 3$$.
+$$
+\frac{1}{3x-2} - \frac{2x}{6-9x} = 3
+$$.
 
 **Answer**
 
@@ -69,7 +73,9 @@ $$
 
 **Answer**
 
-$$2\frac{1}{6}$$
+$$
+2\frac{1}{6}
+$$
 
 
 ## Example 2
@@ -175,6 +181,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg1MTkwNDEsLTE3MjUyMjA2OTJdfQ
+eyJoaXN0b3J5IjpbLTE5MDI3OTM4ODUsLTE3MjUyMjA2OTJdfQ
 ==
 -->
