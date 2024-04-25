@@ -115,6 +115,16 @@ $$
 \frac{2a^2c}{9bx}
 $$
 
+## Practice 3.1
+
+**Problem**
+Simplify
+
+$$
+\frac{1}{2(t - 3)} \div \frac{t + 3}{t^2 - 9}
+$$
+
+
 
 
 
@@ -124,6 +134,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxMDc3OTA5LC0xNTAyNjMxNjQ4LDIzMT
-AwMzY5MywtMTc5MjQzNDMyOCw0MzM2NTEzNDZdfQ==
+eyJoaXN0b3J5IjpbLTIwMTAwMDcxOTksLTE1MDI2MzE2NDgsMj
+MxMDAzNjkzLC0xNzkyNDM0MzI4LDQzMzY1MTM0Nl19
 -->
