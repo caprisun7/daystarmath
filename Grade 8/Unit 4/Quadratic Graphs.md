@@ -8,11 +8,15 @@ nav_order: 1
 ---
 
 # Quadratic Graphs
+
 ## Example 1: Minimum Quadratic
+
 **Problem**
+
 Sketch the graph of $y = x^2 - 6x + 2$ indicating clearly its intercepts with the axes and its turning point.
 
 **Solution**
+
 $$
 \begin{align*}
 &y=(x-3)^2-7 \\ 
@@ -24,29 +28,37 @@ $$
 \Rightarrow \ & \text{x-intercepts are} \ 3+\sqrt{7} \ \text{and} \ 3-\sqrt{7} \\ 
 \end{align*}
 $$
+
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczPBaATAenYqx480eHBgssUgkIAph3264vuNpyKC8PM9cHIEoXNry3JJiyQuMDEUz3oweLiTOtcZRJdI9-t3bp5sKI5c6YjVCTTggzuAxEPQONpcQhVtoS-qfPVi0VlDuif3sc2S2TmSiTbC7XtORb3i=w974-h624-s-no-gm?authuser=0" width="400">
 </p>
 
 ## Practice 1.1
+
 **Problem**
+
 Sketch the graph of $y=x^2-8x+2$, showing clearly the x-intercepts and coordinate of vertex.
 
 **Answer**
+
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczNP9qwbcqIjYd61qOyYlYL5khTHqPSsf4o1wOU5nFEZ3CMTZ5VRvwPWcPzI9TeAkkESGtRd-GeGaFaqUiAhFnM6Lxgi06tPL2K59YOPicPs24Cq45AB3lfnXf5ITet-RepHSmtCv2iIJpfpxEwsnrBd=w920-h504-s-no-gm?authuser=0" width="400">
 </p>
 
 ## Practice 1.2
 
 **Problem**
+
 Sketch the graph of $y=2x^2+4x-6$, showing clearly the intercepts and coordinate of turning point.
 
 **Answer**
+
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczNmxU-0vvboumS2GfgiyWAXIiFOJcmyBzRdk4fi1AME62Ml6e23CmT04iTQKS8GDcfivt7Fmqjy-qK95l7utYWQQIBiJKs7xgiDTNhyDEInmyjDi1izmyA63ISCyx7rr6txsPvByTYZ5JziflFqO0f0=w816-h478-s-no?authuser=0" width="400">
 </p>
 
 
 ## Example 2: Maximum Quadratic
+
 **Problem**
+
 Sketch the graph of $y = -x^2 - 3x + 4$ indicating clearly its intercepts with the axes and its turning point.
 
 **Solution**
@@ -217,5 +229,5 @@ Sketch the graph of $y = x^2+\frac{57}{10}$, showing the axis y-intercepts and t
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczNbIQy-VnqchwvOR5pRA3PKuFvCYbqVz-DjW8VzJsRKhEEqUIFD0J2qap0UPU2b1_xbTu8DB2kchuoQBgz1qdxwlh8UPdb-nWI1QL7eceFwNAuLbpCW33qVrNIHcOBlW9b6gqw2f0TJY6QBgWurW88-=w870-h518-s-no?authuser=0" width="400">
 </p> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTM0MDc5MV19
+eyJoaXN0b3J5IjpbMTc0NDA4MDc1OCwyMDk5MzQwNzkxXX0=
 -->
