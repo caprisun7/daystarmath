@@ -34,6 +34,11 @@ $$
 **Problem**
 Solve $$ \frac{20}{x} - \frac{20}{x+3} = 4 $$.
 **Answer**
+$$
+x = \frac{1}{2} (-3 - \sqrt{69}) \text{ or }
+x = \frac{1}{2} (-3 - \sqrt{69})
+$$
+
 
 ## Example 2
 
@@ -70,7 +75,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTIxMzEwMywtOTAzNjA4Njc4LDY1NT
+eyJoaXN0b3J5IjpbMTMyNjI2NjA1OSwtOTAzNjA4Njc4LDY1NT
 Q4MDI3NywtMTMxNzg2NjgzNCwxNDU0NTAzMjg0LDEyOTQ3MTU5
 MTJdfQ==
 -->
