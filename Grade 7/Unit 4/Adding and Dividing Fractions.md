@@ -35,12 +35,15 @@ $$
 \frac{2t + 3}{2(t - 1)}
 $$
 
+## Practice 1.2
+
+**Problem**
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUzNTcxNCwtMTI3MzI4MzMyOCwxNj
-I2OTQwMTk2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE3Njc2NTk0NTUsLTEyNzMyODMzMjgsMT
+YyNjk0MDE5NiwtMjA4ODc0NjYxMl19
 -->
