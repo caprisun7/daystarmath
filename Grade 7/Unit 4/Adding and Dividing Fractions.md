@@ -38,12 +38,21 @@ $$
 ## Practice 1.2
 
 **Problem**
+$$
+\frac{a^2 - 3a + 2}{a + 4} \times \frac{2a + 8}{a - 1}
+$$
+
+**Answer**
+
+$$
+2(a - 2) \)
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc2NTk0NTUsLTEyNzMyODMzMjgsMT
-YyNjk0MDE5NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTM3NTA4NzM0NywtMTI3MzI4MzMyOCwxNj
+I2OTQwMTk2LC0yMDg4NzQ2NjEyXX0=
 -->
