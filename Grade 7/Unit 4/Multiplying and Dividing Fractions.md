@@ -84,6 +84,14 @@ $$1$$
 
 **Problem**
 
+Simplify
+
+$$
+\frac{2ac^2}{6x} \times \frac{3a^2b}{x-3} \div \frac{9ab^2c}{2x-6}
+$$
+
+**Answer**
+
 
 
 
@@ -92,5 +100,6 @@ $$1$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTI0MzQzMjgsNDMzNjUxMzQ2XX0=
+eyJoaXN0b3J5IjpbLTE0NzAzNDg4NTgsLTE3OTI0MzQzMjgsND
+MzNjUxMzQ2XX0=
 -->
