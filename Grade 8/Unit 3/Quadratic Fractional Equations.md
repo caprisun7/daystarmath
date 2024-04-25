@@ -39,6 +39,11 @@ x = \frac{1}{2} (-3 - \sqrt{69}) \text{ or }
 x = \frac{1}{2} (-3 + \sqrt{69})
 $$
 
+## Practice 1.2
+**Problem**
+Solve $$ \frac{x+2}{x^2-5x+6} - \frac{x}{4x-12} = \frac{13}{8} $$.
+
+**Answer**
 
 ## Example 2
 
@@ -83,7 +88,7 @@ x = \frac{1}{12} (35 + \sqrt{601})
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjI1NTI0OSwyNjA5MDcyNjMsLTkwMz
-YwODY3OCw2NTU0ODAyNzcsLTEzMTc4NjY4MzQsMTQ1NDUwMzI4
-NCwxMjk0NzE1OTEyXX0=
+eyJoaXN0b3J5IjpbLTIwOTk4NjIyNjUsMjYwOTA3MjYzLC05MD
+M2MDg2NzgsNjU1NDgwMjc3LC0xMzE3ODY2ODM0LDE0NTQ1MDMy
+ODQsMTI5NDcxNTkxMl19
 -->
