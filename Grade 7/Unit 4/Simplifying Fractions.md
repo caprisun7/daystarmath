@@ -95,7 +95,7 @@ Simplify $$\frac{n - 7}{n^2 - 10n + 21}$$
 
 $$
 \begin{align*}
-\frac{n - 7}{n^2 - 10n + 21} &= \frac{1\cdot(n - 7)}{(n - 3)(n - 7)} \\
+&= \frac{1\cdot(n - 7)}{(n - 3)(n - 7)} \\
 &= \frac{1}{n - 3}
 \end{align*}
 $$
@@ -266,5 +266,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTcxMzg0M119
+eyJoaXN0b3J5IjpbLTE2NDY3MzI4NzYsLTEyOTcxMzg0M119
 -->
