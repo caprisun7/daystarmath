@@ -25,6 +25,7 @@ $$
 Simplify $$\frac{y^2 + 4y + 3}{2y^2 + 7y + 5}$$.
 
 **Answer**
+
 $$
 \frac{y + 3}{2y + 5}
 $$
@@ -33,18 +34,25 @@ $$
 
 
 ## Practice 1.2
+
 **Problem**
+
 Simplify $$\frac{x^2 + x - 6}{(x + 3)^2}$$
 
 **Answer**
+
 $$
 \frac{x - 2}{x + 3}
 $$
 
 ## Example 2: Cross Method (0 middle)
+
 **Problem**
+
 Simplify $$\frac{x^2 - 4}{x^2 - 4x + 4}$$
+
 **Soluiton**
+
 $$
 \begin{aligned}
 &\frac{x^2 - 4}{x^2 - 4x + 4} \\
@@ -54,22 +62,29 @@ $$
 $$
 
 ## Practice 2.1
+
 **Problem**
+
 Simplify
+
 $$
 \frac{9x^2 - 1}{3x^2 - 5x - 2}
 $$
 
 **Answer**
+
 $$
 \frac{3x - 1}{x - 2}
 $$
 
 ## Example 3: Only 1 Left
+
 **Problem**
+
 Simplify $$\frac{n - 7}{n^2 - 10n + 21}$$
 
 **Solution**
+
 $$
 \begin{align*}
 \frac{n - 7}{n^2 - 10n + 21} &= \frac{1\cdot(n - 7)}{(n - 3)(n - 7)} \\
@@ -78,16 +93,23 @@ $$
 $$
 
 ## Practice 3.1
+
 **Problem**
+
 Simplify $$\frac{y^2 + 14y + 33}{y + 3}$$
 
 **Answer**
+
 $$ y+11$$
+
 ## Example : Common Terms Out
 
 **Problem**
+
 Simplify $$\frac{3x^3y - 12x^2y}{12xy^2 - 48y^2}$$.
+
 **Solution**
+
 $$
 \begin{aligned}
 &\frac{3x^3y - 12x^2y}{12xy^2 - 48y^2} \\
@@ -97,13 +119,17 @@ $$
 $$
 
 ## Practice 4.1
+
 **Problem**
+
 Simplify
+
 $$
 \frac{15x^2y - 5xy^2}{12x - 4y}
 $$
 
 **Answer**
+
 $$ \frac{5xy}{4} $$
 
 
@@ -200,5 +226,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzMxMTg4NV19
+eyJoaXN0b3J5IjpbMjA5MDA2MjE1OV19
 -->
