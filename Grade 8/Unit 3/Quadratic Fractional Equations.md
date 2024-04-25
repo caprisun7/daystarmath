@@ -62,16 +62,16 @@ $$
 Solve $$ \frac{x+1}{3-2x} - \frac{3x-14}{4x^2-9} = 0 $$.
 
 **Answer**
-
 $$
 x = -2 - \sqrt{\frac{19}{2}} \text{ or } 
-x = -2 - \sqrt{\frac{19}{2}}
-
+x = -2 + \sqrt{\frac{19}{2}}
 $$
+
+## Practice 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMxODA0NTMsLTkwMzYwODY3OCw2NT
-U0ODAyNzcsLTEzMTc4NjY4MzQsMTQ1NDUwMzI4NCwxMjk0NzE1
-OTEyXX0=
+eyJoaXN0b3J5IjpbMTgyNzY1MTI4OCwtOTAzNjA4Njc4LDY1NT
+Q4MDI3NywtMTMxNzg2NjgzNCwxNDU0NTAzMjg0LDEyOTQ3MTU5
+MTJdfQ==
 -->
