@@ -1,3 +1,12 @@
+---
+layout: default
+title: Change of Base
+permalink: "/grade8/ChangeOfBase"
+parent: Unit 1
+grand_parent: Grade 8 Higher
+nav_order: 3
+---
+
 # Change of Base
 ## Example 1
 
