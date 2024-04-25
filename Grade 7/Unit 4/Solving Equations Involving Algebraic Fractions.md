@@ -13,7 +13,9 @@ nav_order: 4
 
 Simplify 
 
-$$\frac{3}{x+1} - \frac{1}{2x+2} = 5$$.
+$$
+\frac{3}{x+1} - \frac{1}{2x+2} = 5
+$$.
 
 **Solution**
 
@@ -173,5 +175,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNTA5MDcsLTE3MjUyMjA2OTJdfQ==
+eyJoaXN0b3J5IjpbLTExODg1MTkwNDEsLTE3MjUyMjA2OTJdfQ
+==
 -->
