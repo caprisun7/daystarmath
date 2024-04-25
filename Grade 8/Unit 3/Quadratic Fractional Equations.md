@@ -71,8 +71,14 @@ $$
 x = -2 - \sqrt{\frac{19}{2}} \text{ or } 
 x = -2 + \sqrt{\frac{19}{2}}
 $$
+
+## Practice 2.2
+**Problem**
+Solve $$ \frac{2+x}{6x^2-23x+20} - \frac{1}{5-2x} = \frac{1}{3} $$.
+
+**Answer**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE5MjQxNTcsLTkwMzYwODY3OCw2NT
-U0ODAyNzcsLTEzMTc4NjY4MzQsMTQ1NDUwMzI4NCwxMjk0NzE1
-OTEyXX0=
+eyJoaXN0b3J5IjpbMjYwOTA3MjYzLC05MDM2MDg2NzgsNjU1ND
+gwMjc3LC0xMzE3ODY2ODM0LDE0NTQ1MDMyODQsMTI5NDcxNTkx
+Ml19
 -->
