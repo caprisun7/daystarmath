@@ -23,10 +23,24 @@ $$
 
 **Example**
 
+Simplify
+
+$$
+\frac{1}{2t - 4} \times \frac{6 + t - 2t^2}{1 - t}
+$$
+
+**Answer**
+
+$$
+\frac{2t + 3}{2(t - 1)}
+$$
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDc4MTA4LC0xMjczMjgzMzI4LDE2Mj
-Y5NDAxOTYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExNjUzNTcxNCwtMTI3MzI4MzMyOCwxNj
+I2OTQwMTk2LC0yMDg4NzQ2NjEyXX0=
 -->
