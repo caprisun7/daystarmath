@@ -231,20 +231,25 @@ Sketch the graph of $y = 1-(x+\frac{3}{2})^2$, showing the axis intercepts and t
 ## Practice 5.2
 
 **Problem**
+
 Sketch the graph of $y = -5+(1-x)^2$, showing the coordinate of the vertex.
 
 **Answer**
+
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczPLUkD8PmneN8NeBYE3p41g6Obi4SGcrCasDUtSvI6jfV4aappRqJXHajJL7bkil4RBHNv4S_JzembsXsU0eYU6GG417H84jhUSr1Oi0kiQeIeTNljM_rhHhDQgj5BTKFk6etAmQsGxlJaLWueYl1aI=w954-h576-s-no?authuser=0" width="400">
 </p>axis intercepts and the line of symmetry.
 
 
 ## Practice 5.3
+
 **Problem**
+
 Sketch the graph of $y = x^2+\frac{57}{10}$, showing the axis y-intercepts and the line of symmetry.
 
 **Answer**
+
 <p align="center"><img src="https://lh3.googleusercontent.com/pw/AP1GczNbIQy-VnqchwvOR5pRA3PKuFvCYbqVz-DjW8VzJsRKhEEqUIFD0J2qap0UPU2b1_xbTu8DB2kchuoQBgz1qdxwlh8UPdb-nWI1QL7eceFwNAuLbpCW33qVrNIHcOBlW9b6gqw2f0TJY6QBgWurW88-=w870-h518-s-no?authuser=0" width="400">
 </p> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTYwMjMyOTgsMjA5OTM0MDc5MV19
+eyJoaXN0b3J5IjpbLTE4NjA0MjI4NjgsMjA5OTM0MDc5MV19
 -->
