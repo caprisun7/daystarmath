@@ -90,6 +90,13 @@ $$\frac{n + 5}{2m^2 - 15m + 7} - \frac{2n^2 - 50}{6m^2 - 3m}$$
 
 as a single fraction in its simplest form.
 
+**Answer**
+
+$$
+\frac{3mn}{2(m - 7)(n - 5)}
+$$
+
+
 
 
 ## Example 3
@@ -117,6 +124,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI2MzE2NDgsMjMxMDAzNjkzLC0xNz
-kyNDM0MzI4LDQzMzY1MTM0Nl19
+eyJoaXN0b3J5IjpbMzgxMDc3OTA5LC0xNTAyNjMxNjQ4LDIzMT
+AwMzY5MywtMTc5MjQzNDMyOCw0MzM2NTEzNDZdfQ==
 -->
