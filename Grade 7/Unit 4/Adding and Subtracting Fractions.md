@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adding and Subtracting Fractions
-permalink: "/grade7/addandsubtractfractions"
+permalink: "/grade7/AddAndSubtractFractions"
 parent: Unit 4
 grand_parent: Grade 7 Standard
 nav_order: 2
