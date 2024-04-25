@@ -19,7 +19,7 @@ $$a^{-n}=\frac{1}{a^n}$$
 
 Explain why the followings are true:
 
-a)  $$(\frac{a}{b})^{-n}=\frac{b^n}{a^n}$$
+a) $$(\frac{a}{b})^{-n}=\frac{b^n}{a^n}$$
 
 b) $$\frac{a^{-n}}{b}=\frac{1}{ba^n}$$
 
@@ -56,7 +56,11 @@ $$
 
 **Problem**
 
-Simplify $$\frac{2}{3} x^2 \div \frac{1}{2x^{-3}}$$ and express your answers in positive index.
+Simplify 
+
+$$\frac{2}{3} x^2 \div \frac{1}{2x^{-3}}$$ 
+
+and express your answers in positive index.
 
 **Solution**
 
@@ -106,7 +110,11 @@ $$
 
 **Problem**
 
-Simplify $$\left( \frac{3a^{-2}b^3}{b^{-1}c^{2}} \right) \div \left( \frac{ab^{-4}}{3b^{-3}c^{2}} \right)^{-3}$$, leaving your answer in positive indices.
+Simplify 
+
+$$\left( \frac{3a^{-2}b^3}{b^{-1}c^{2}} \right) \div \left( \frac{ab^{-4}}{3b^{-3}c^{2}} \right)^{-3}$$, 
+
+leaving your answer in positive indices.
 
 **Answer**
 
@@ -133,7 +141,8 @@ $$
 
 **Problem**
 
-Show that 
+Show that
+
 $$
 a^\frac{m}{n} = \sqrt[n]{a^m} \text{ or } (\sqrt[n]{a})^m
 $$
