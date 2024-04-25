@@ -11,7 +11,7 @@ nav_order: 1
 **Problem**
 
 Simplify
-
+ 
 $$
 w^3y^5\div \frac{yw^2}{4x} \times \left( \frac{2x}{y} \right)^2
 $$
@@ -64,7 +64,7 @@ $$
 **Problem**
 
 Simplify
-
+ 
 $$
 \frac{(-4ab^3)^2 \cdot (-24a^2b)}{-8a^3b^5}
 $$
@@ -74,3 +74,7 @@ $$
 $$
  48ab^2
 $$
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYxNzE4NTI4XX0=
+-->
