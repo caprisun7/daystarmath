@@ -80,6 +80,16 @@ $$
 
 $$1$$
 
+## Practice 2.2
+
+**Problem**
+
+Express 
+
+$$\frac{n + 5}{2m^2 - 15m + 7} - \frac{2n^2 - 50}{6m^2 - 3m}$$
+
+as a single fraction in its simplest form.
+
 
 
 ## Example 3
@@ -107,6 +117,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxMDAzNjkzLC0xNzkyNDM0MzI4LDQzMz
-Y1MTM0Nl19
+eyJoaXN0b3J5IjpbLTE1MDI2MzE2NDgsMjMxMDAzNjkzLC0xNz
+kyNDM0MzI4LDQzMzY1MTM0Nl19
 -->
