@@ -51,7 +51,13 @@ x(8x-5)&=0\\
 x=0 &\text{ or } x=\frac{8}{5}
 \end{align*}
 $$
+
+## Practice 2.1
+**Problem**
+Solve $$ \frac{x+1}{3-2x} - \frac{3x-14}{4x^2-9} = 0 $$.
+
+**Answe**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1NDgwMjc3LC0xMzE3ODY2ODM0LDE0NT
-Q1MDMyODQsMTI5NDcxNTkxMl19
+eyJoaXN0b3J5IjpbMTYxMjg5NzkxMCw2NTU0ODAyNzcsLTEzMT
+c4NjY4MzQsMTQ1NDUwMzI4NCwxMjk0NzE1OTEyXX0=
 -->
