@@ -148,6 +148,15 @@ $$
 
 **Problem**
 
+Simplify
+
+$$
+\frac{3m^2n^4}{7m^2} \times \frac{56m^3n}{18m^2n^2} \div \frac{mn^5}{n}
+$$
+
+**Answer**
+
+
 
 
 
@@ -160,6 +169,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjMzNTkxOSwtMTUwMjYzMTY0OCwyMz
+eyJoaXN0b3J5IjpbMTI3MTk0NDYzNCwtMTUwMjYzMTY0OCwyMz
 EwMDM2OTMsLTE3OTI0MzQzMjgsNDMzNjUxMzQ2XX0=
 -->
