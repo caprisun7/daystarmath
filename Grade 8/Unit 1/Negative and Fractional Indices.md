@@ -1,3 +1,12 @@
+---
+layout: default
+title: Negative and Fractional Indices
+permalink: "/grade8/NegativeAndFractionalIndices"
+parent: Unit 1
+grand_parent: Grade 8 Higher
+nav_order: 2
+---
+
 # Negative and Fractional Indices
 
 ## Definition
