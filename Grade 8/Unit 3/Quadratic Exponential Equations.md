@@ -141,10 +141,29 @@ $$
 **Answer**
 $$16 \text{ or } 25$$
 
+## Example 5
+**Problem**
+Given that $y = 3^x$, express $$3^{2x} + 81^{\frac{1}{4}(x+2)}-9^{\frac{1}{2}(x+1)}$$ in term of y.
 
+**Solution**
+$$
+\begin{align*}
+&= (3^x)^2 + 3^{x+2} - 3^{x+1} \\
+&= y^2 + 9y - 3y \\
+&= y^2 + 6y
+\end{align*}
+$$
+
+## Practice 5.1
+
+**Problem**
+Given that $u = 3^x$, express $9^{x-2}$ in terms of $u$.
+
+**Answer**
+$$\frac{u^2}{81}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY3OTExMjMsLTg0MDIzNTgyMywtNz
-YxNDA2MjU1LC03OTg1MDQxMjEsMTgwOTU4MzY3OSwtMTUyMjE0
-MTgxMywxMDMzNzQyMDYwLDE0MTA5NTc2MTgsLTI2ODA1MjExNC
-wyMDYwNjMzMjY5XX0=
+eyJoaXN0b3J5IjpbLTI0Mjk0OTY0MywtODQwMjM1ODIzLC03Nj
+E0MDYyNTUsLTc5ODUwNDEyMSwxODA5NTgzNjc5LC0xNTIyMTQx
+ODEzLDEwMzM3NDIwNjAsMTQxMDk1NzYxOCwtMjY4MDUyMTE0LD
+IwNjA2MzMyNjldfQ==
 -->
