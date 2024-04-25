@@ -127,7 +127,7 @@ $$\frac{2}{3}$$
 **Problem**
 
 Solve
-
+ 
 $$
 \sqrt{27^{2x+3}} = \frac{1}{3^{x-2} \times 9^{3x}}
 $$
@@ -257,3 +257,13 @@ Solve $$2^{x+1} - 24\cdot\sqrt{2^x} + 64 = 0$$
 **Answer**
 
 $$x=4 \text{ or } x=6$$
+
+
+
+
+
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg3NzI3ODk1NF19
+-->
