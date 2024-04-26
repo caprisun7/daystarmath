@@ -7,11 +7,15 @@ grand_parent: Grade 7 Standard
 nav_order: 1
 ---
 
-# Expanding Double Brackets
+# Expanding Double BracketsExpressions of the Form $$(x + a)(x + b)$$
+
+## Introduction
+
+When we have an expression in the form $$(x + a)(x + b)$$, where $$a$$ and $$b$$ are constants (which can be positive or negative), we can expand it using the distributive law. This process involves multiplying each term in the first bracket by each term in the second bracket and then combining like terms.
 
 ## Example 1: Both $$a$$ and $$b$$ are Positive
 
-**Problem:**
+**### Problem:**
 
  Expand $$(x + 3)(x + 4)$$
 
@@ -26,6 +30,43 @@ nav_order: 1
 4. Combine like terms:
    $$ = x^2 + 7x + 12 $$
 
+**Self-Explanation Question 1 (Criteria C): Why is step 1 an application of a distribution law?**
+
+The Distributive Law states that for any three numbers $$a$$, $$b$$, and $$c$$:
+
+$$ a(b + c) = ab + ac $$
+
+This law allows the multiplication of a single term $$a$$ by each term inside a parenthesis $$b + c$$.
+
+Applying this to the expression $$(x + 3)(x + 4)$$:
+
+1. Let $$a$$ be $$(x + 4)$$, and $$b + c$$ be $$(x + 3)$$.
+2. Apply the Distributive Law:
+   - Multiply $$a = (x + 4)$$ by $$b = x$$:
+     $$ x \cdot (x + 4) $$
+   - Then, multiply $$a = (x + 4)$$ by $$c = 3$$:
+     $$ 3 \cdot (x + 4) $$
+
+So, when you write it out, it becomes:
+$$(x + 3)(x + 4) = x(x + 4) + 3(x + 4)$$
+
+**Self-Explanation Question 2 (Criteria C): Is there another way the apply the distribution law in step 1?**
+
+Yes, the Distributive Law states that for any three numbers $$a$$, $$b$$, and $$c$$:
+
+$$ a(b + c) = ab + ac $$
+
+Applying this to the expression $$(x + 3)(x + 4)$$:
+
+1. Let $$a$$ be $$(x + 3)$$, and $$b + c$$ be $$(x + 4)$$.
+2. Apply the Distributive Law:
+   - Multiply $$a = (x + 3)$$ by $$b = x$$:
+     $$ x \cdot (x + 3) $$
+   - Then, multiply $$a = (x + 3)$$ by $$c = 4$$:
+     $$ 4 \cdot (x + 3) $$
+
+So, when you write it out, it becomes:
+$$(x + 3)(x + 4) = x(x + 3) + 4(x + 3)$$
 
 ## Example 2: Both $$a$$ and $$b$$ are Negative
 
@@ -112,5 +153,5 @@ $$ x^3 + 5x^2 + 2x - 8 $$.
 
 $$ 2m^3 + m^2 - 18m - 9 $$. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODE3NTAyNV19
+eyJoaXN0b3J5IjpbLTY3NTk4NTEyNCwxNjk4MTc1MDI1XX0=
 -->
