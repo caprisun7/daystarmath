@@ -10,6 +10,21 @@ Parallel to line $t$ is line $u$, which passes through the point $(-8, 5)$. What
 
 **Solution**
 
+The equations are solved as follows:
+
+$$
+\begin{align*}
+x + 3y &= -15 \\
+\text{For line } u: \\
+y &= -\frac{1}{3}x + c \\
+5 &= -\frac{1}{3}(-8) + c \quad &\text{(Finding } c) \\
+c &= 5 - \frac{8}{3} = \frac{7}{3} \\
+\text{Equation of line } u: \\
+y &= -\frac{1}{3}x + \frac{7}{3} \\
+3y &= -x + 7 \\
+x + 3y &= 7 \quad &\text{(Standard form)}
+\end{align*}
+$$
 
 
 ## Practice 1.1
@@ -59,6 +74,6 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU5ODQ1OTQsLTExNjEwMDYxNjMsLT
-IwODg3NDY2MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNDc2MDcwODAyLC0xODg1OTg0NTk0LC0xMT
+YxMDA2MTYzLC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
 -->
