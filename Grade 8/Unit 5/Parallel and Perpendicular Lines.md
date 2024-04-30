@@ -47,11 +47,11 @@ $$y=x-8$$
 
 **Problem**
 
-Find the equation of the line passes through (-4,-3) and is parallel to another line passing through (-9, 7) and (-12, 3) 
+Find the equation of the line passes through (-4,-3), which is also parallel to another line passing through (-9, 7) and (-12, 3).
 
-(a) the gradient of the line which passes through A and B,
-(b) the equation of the line which is parallel to AB and passes through the point C.
+**Answer**
 
+$$
 
 ## Example 2
 
@@ -86,7 +86,7 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc4NjczMjAsMTExNTUzNjA4LDIxMz
-I4MTA5NjUsLTE4ODU5ODQ1OTQsLTExNjEwMDYxNjMsLTIwODg3
-NDY2MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE5NDE0MjkyMTAsLTEwNzc4NjczMjAsMT
+ExNTUzNjA4LDIxMzI4MTA5NjUsLTE4ODU5ODQ1OTQsLTExNjEw
+MDYxNjMsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX0=
 -->
