@@ -17,7 +17,8 @@ $$
 y &= \frac{2}{3}x - 3
 \end{align*}
 $$
+Gradient of line $w$ is $\frac{2}{3}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzM2ODk1OCwtMjA4ODc0NjYxMiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0ODQ3MDI1MTksLTIwODg3NDY2MTIsNz
+MwOTk4MTE2XX0=
 -->
