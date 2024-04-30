@@ -1,3 +1,9 @@
+## Practice 1.1
+
+**Problem**
+
+
+
 ## Example 2
 
 **Problem**
@@ -31,6 +37,6 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjEwMDYxNjMsLTIwODg3NDY2MTIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTIyNjk4MjUsLTExNjEwMDYxNjMsLTIwOD
+g3NDY2MTIsNzMwOTk4MTE2XX0=
 -->
