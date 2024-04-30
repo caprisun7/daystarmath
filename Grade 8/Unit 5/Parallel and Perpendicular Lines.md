@@ -10,9 +10,14 @@ Line $w$, which is perpendicular to line $v$, includes the point $(2, 2)$.
 What is the equation of line $w$?
 
 **Solution**
-
-
+$$
+\begin{align*}
+2x - 3y &= 9 \\
+-3y &= -2x + 9 \\
+y &= \frac{2}{3}x - 3
+\end{align*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjY0NjI4MSwtMjA4ODc0NjYxMiw3Mz
+eyJoaXN0b3J5IjpbLTQ0NzM2ODk1OCwtMjA4ODc0NjYxMiw3Mz
 A5OTgxMTZdfQ==
 -->
