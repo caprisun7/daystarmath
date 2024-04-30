@@ -43,6 +43,15 @@ What is the equation of line $h$?
 
 $$y=x-8$$
 
+## Practice 1.2
+
+**Problem**
+(-9, 7), (-12, 3) and (-4, -3) respectively. Find
+
+(a) the gradient of the line which passes through A and B,
+(b) the equation of the line which is parallel to AB and passes through the point C.
+
+
 ## Example 2
 
 **Problem**
@@ -76,6 +85,7 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjgxMDk2NSwtMTg4NTk4NDU5NCwtMT
-E2MTAwNjE2MywtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDMwMTMyMzAyLDIxMzI4MTA5NjUsLTE4OD
+U5ODQ1OTQsLTExNjEwMDYxNjMsLTIwODg3NDY2MTIsNzMwOTk4
+MTE2XX0=
 -->
