@@ -63,13 +63,12 @@ $$
 \frac{x}{2} + \frac{y}{2} = 1
 $$
 
-(a) Find the gradient of line AB.
-
-(b) Find the y-intercept of line AB.
-
-(c) A second line PQ is parallel to the line AB and passes through a point \( (2, -8) \). Show that the second line PQ also passes through the point \( (-1, -5) \).
+Find the equation of the line PQ which is parallel to the line AB and passes through a point (2, -8).
 
 **Answer**
+
+$$
+y=-x
 
 
 ## Example 2
@@ -105,7 +104,7 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDgzOTIxOCw1MTExODk0NTQsLTEwNz
+eyJoaXN0b3J5IjpbMTM5NzE0NjM4NSw1MTExODk0NTQsLTEwNz
 c4NjczMjAsMTExNTUzNjA4LDIxMzI4MTA5NjUsLTE4ODU5ODQ1
 OTQsLTExNjEwMDYxNjMsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX
 0=
