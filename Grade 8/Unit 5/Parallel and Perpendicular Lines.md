@@ -2,6 +2,7 @@
 
 **Problem**
 
+The equation of line $g$ is $x - y = -7$. Line $h$, which is parallel to line \( g \), includes the point \( (1, -7) \). What is the equation of line \( h \)?
 
 
 ## Example 2
@@ -37,6 +38,6 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyNjk4MjUsLTExNjEwMDYxNjMsLTIwOD
-g3NDY2MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjk1MTczMjk3LC0xMTYxMDA2MTYzLC0yMD
+g4NzQ2NjEyLDczMDk5ODExNl19
 -->
