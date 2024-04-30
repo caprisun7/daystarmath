@@ -25,8 +25,6 @@ y &= -\frac{1}{3}x + c \\
 5 &= -\frac{1}{3}(-8) + c \\
 c &= 5 - \frac{8}{3} = \frac{7}{3} \\
 y &= -\frac{1}{3}x + \frac{7}{3} \\
-3y &= -x + 7 \\
-x + 3y &= 7 \quad &\text{(Standard form)}
 \end{align*}
 $$
 
@@ -78,6 +76,6 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI5ODE4MDgsLTE4ODU5ODQ1OTQsLT
-ExNjEwMDYxNjMsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjEzMjgxMDk2NSwtMTg4NTk4NDU5NCwtMT
+E2MTAwNjE2MywtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
