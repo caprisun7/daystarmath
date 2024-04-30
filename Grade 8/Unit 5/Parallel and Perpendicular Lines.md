@@ -68,7 +68,8 @@ Find the equation of the line PQ which is parallel to the line AB and passes thr
 **Answer**
 
 $$
-y=-x
+y=-x-6
+$$
 
 
 ## Example 2
@@ -104,7 +105,7 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzE0NjM4NSw1MTExODk0NTQsLTEwNz
+eyJoaXN0b3J5IjpbMTEwMTA5NDQ3Niw1MTExODk0NTQsLTEwNz
 c4NjczMjAsMTExNTUzNjA4LDIxMzI4MTA5NjUsLTE4ODU5ODQ1
 OTQsLTExNjEwMDYxNjMsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX
 0=
