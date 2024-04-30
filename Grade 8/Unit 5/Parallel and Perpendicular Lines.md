@@ -21,10 +21,9 @@ Gradient of line $t$ is $-\frac{1}{3}$, so gradient of line $u$ is $-\frac{1}{3}
 
 $$
 \begin{align*}
-y &= -\frac{1}{3}(-8) + c \\
+y &= -\frac{1}{3}x + c \\
 5 &= -\frac{1}{3}(-8) + c \\
 c &= 5 - \frac{8}{3} = \frac{7}{3} \\
-\text{Equation of line } u: \\
 y &= -\frac{1}{3}x + \frac{7}{3} \\
 3y &= -x + 7 \\
 x + 3y &= 7 \quad &\text{(Standard form)}
@@ -79,6 +78,6 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTEyNDI1NjksLTE4ODU5ODQ1OTQsLT
+eyJoaXN0b3J5IjpbLTIwNTI5ODE4MDgsLTE4ODU5ODQ1OTQsLT
 ExNjEwMDYxNjMsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX0=
 -->
