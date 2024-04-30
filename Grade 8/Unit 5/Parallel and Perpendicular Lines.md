@@ -4,11 +4,12 @@
 
 The equation of line $t$ is 
 
-$$x + 3y = -15$$. 
+$$x + 3y = -15$$ 
 
-Parallel to line $t$ is line $u$, which passes through the point $(-8, 5)$. What is the equation of line \( u \)?
+Parallel to line $t$ is line $u$, which passes through the point $(-8, 5)$. What is the equation of line $u$?
 
 **Solution**
+
 
 
 ## Practice 1.1
@@ -58,6 +59,6 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzU0MTQzOSwtMTE2MTAwNjE2MywtMj
-A4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4ODU5ODQ1OTQsLTExNjEwMDYxNjMsLT
+IwODg3NDY2MTIsNzMwOTk4MTE2XX0=
 -->
