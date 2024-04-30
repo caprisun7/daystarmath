@@ -15,9 +15,9 @@ The equations are solved as follows:
 $$
 \begin{align*}
 x + 3y &= -15 \\
-\text{For line } u: \\
-y &= -\frac{1}{3}x + c \\
-5 &= -\frac{1}{3}(-8) + c \quad &\text{(Finding } c) \\
+y &= -\frac{1}{3}x - 5 \\
+\end
+5 &= -\frac{1}{3}(-8) + c \\
 c &= 5 - \frac{8}{3} = \frac{7}{3} \\
 \text{Equation of line } u: \\
 y &= -\frac{1}{3}x + \frac{7}{3} \\
@@ -74,6 +74,6 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2MDcwODAyLC0xODg1OTg0NTk0LC0xMT
-YxMDA2MTYzLC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTA0NzYxNzUzMywtMTg4NTk4NDU5NCwtMT
+E2MTAwNjE2MywtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
