@@ -109,15 +109,19 @@ $$
 
 **Problem**
 
-The line $$\frac{x}{3} + \frac{y}{4} = 1$$ cuts the x-axis at A and the y-axis at B. Find
+The line AB has equation 
 
-(a) the coordinates of A and of B.
+$$
+\frac{x}{3} + \frac{y}{4} = 1
+$$
 
-(b) the equation of the line that passes through the point \( (5, -7) \) and is **perpendicular** to AB.
+Find the equation of the line that passes through the point (5, -7) and is perpendicular to AB.
+
+*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzcxOTIzNiwxMTAxMDk0NDc2LDUxMT
-E4OTQ1NCwtMTA3Nzg2NzMyMCwxMTE1NTM2MDgsMjEzMjgxMDk2
-NSwtMTg4NTk4NDU5NCwtMTE2MTAwNjE2MywtMjA4ODc0NjYxMi
-w3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTc0ODg3NzQzLDExMDEwOTQ0NzYsNTExMT
+g5NDU0LC0xMDc3ODY3MzIwLDExMTU1MzYwOCwyMTMyODEwOTY1
+LC0xODg1OTg0NTk0LC0xMTYxMDA2MTYzLC0yMDg4NzQ2NjEyLD
+czMDk5ODExNl19
 -->
