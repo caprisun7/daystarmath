@@ -104,9 +104,20 @@ y &= -\frac{3}{2}x + b \\
 y &= \frac{2}{3}x+5
 \end{align*}
 $$
+
+## Practice 2.1
+
+**Problem**
+
+The line $$\frac{x}{3} + \frac{y}{4} = 1$$ cuts the x-axis at A and the y-axis at B. Find
+
+(a) the coordinates of A and of B.
+
+(b) the equation of the line that passes through the point \( (5, -7) \) and is **perpendicular** to AB.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTA5NDQ3Niw1MTExODk0NTQsLTEwNz
-c4NjczMjAsMTExNTUzNjA4LDIxMzI4MTA5NjUsLTE4ODU5ODQ1
-OTQsLTExNjEwMDYxNjMsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbLTQ2MzcxOTIzNiwxMTAxMDk0NDc2LDUxMT
+E4OTQ1NCwtMTA3Nzg2NzMyMCwxMTE1NTM2MDgsMjEzMjgxMDk2
+NSwtMTg4NTk4NDU5NCwtMTE2MTAwNjE2MywtMjA4ODc0NjYxMi
+w3MzA5OTgxMTZdfQ==
 -->
