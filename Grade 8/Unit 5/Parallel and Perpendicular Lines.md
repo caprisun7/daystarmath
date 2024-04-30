@@ -53,6 +53,25 @@ Find the equation of a line passes through (-4,-3), which is also parallel to an
 
 $$y=\frac{4}{3}x+\frac{7}{3}$$
 
+## Practice 1.3
+
+**Problem**
+
+The equation of a straight line AB is 
+
+$$
+\frac{x}{2} + \frac{y}{2} = 1
+$$
+
+(a) Find the gradient of line AB.
+
+(b) Find the y-intercept of line AB.
+
+(c) A second line PQ is parallel to the line AB and passes through a point \( (2, -8) \). Show that the second line PQ also passes through the point \( (-1, -5) \).
+
+**Answer**
+
+
 ## Example 2
 
 **Problem**
@@ -86,7 +105,8 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMTg5NDU0LC0xMDc3ODY3MzIwLDExMT
-U1MzYwOCwyMTMyODEwOTY1LC0xODg1OTg0NTk0LC0xMTYxMDA2
-MTYzLC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTE3NDgzOTIxOCw1MTExODk0NTQsLTEwNz
+c4NjczMjAsMTExNTUzNjA4LDIxMzI4MTA5NjUsLTE4ODU5ODQ1
+OTQsLTExNjEwMDYxNjMsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX
+0=
 -->
