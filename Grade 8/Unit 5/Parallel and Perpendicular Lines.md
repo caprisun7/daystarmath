@@ -10,14 +10,14 @@ Parallel to line $t$ is line $u$, which passes through the point $(-8, 5)$. What
 
 **Solution**
 
-The equations are solved as follows:
-
 $$
 \begin{align*}
 x + 3y &= -15 \\
 y &= -\frac{1}{3}x - 5 \\
 \end{align*}
 $$
+
+Gradient of line $v$ is $\frac{2}{3}$, so gradient of line $w$ is $-\frac{3}{2}$
 
 5 &= -\frac{1}{3}(-8) + c \\
 c &= 5 - \frac{8}{3} = \frac{7}{3} \\
@@ -49,7 +49,7 @@ $$y=x-8$$
 
 Line $v$ has an equation of 
 
-$$2x - 3y = 9$$. 
+$$2x - 3y = 9$$
 
 Line $w$, which is perpendicular to line $v$, includes the point $(2, 2)$. 
 
@@ -76,6 +76,6 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4NzQwNTEwLC0xODg1OTg0NTk0LC0xMT
-YxMDA2MTYzLC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTk1NTM5NDA3NywtMTg4NTk4NDU5NCwtMT
+E2MTAwNjE2MywtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
