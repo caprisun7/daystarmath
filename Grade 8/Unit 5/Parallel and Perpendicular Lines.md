@@ -1,4 +1,5 @@
 ## Example 2
+
 **Problem**
 
 Line $v$ has an equation of 
@@ -18,11 +19,11 @@ y &= \frac{2}{3}x - 3
 \end{align*}
 $$
 
-Gradient of line $w$ is $\frac{2}{3}$
+Gradient of line $v$ is $\frac{2}{3}$, so gradient of line $w$ is $-\frac{3}{2}$
 
 $$
 \begin{align*}
-y &= \frac{2}{3}x + b \\
+y &= -\frac{3}{2}x + b \\
 2 &= -\frac{3}{2}(2) + b \\
 2 &= -3 + b \\
 5 &= b \\
@@ -30,6 +31,6 @@ y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2NjcxNTE1LC0yMDg4NzQ2NjEyLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTExNjEwMDYxNjMsLTIwODg3NDY2MTIsNz
+MwOTk4MTE2XX0=
 -->
