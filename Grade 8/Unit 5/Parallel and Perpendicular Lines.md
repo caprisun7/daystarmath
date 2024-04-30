@@ -17,10 +17,19 @@ $$
 y &= \frac{2}{3}x - 3
 \end{align*}
 $$
+
 Gradient of line $w$ is $\frac{2}{3}$
 
-
+$$
+\begin{align*}
+y &= \frac{2}{3}x + b \\
+2 &= -\frac{3}{2}(2) + b \\
+2 &= -3 + b \\
+5 &= b
+y
+\end{align*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjMzNzI0MywtMjA4ODc0NjYxMiw3Mz
+eyJoaXN0b3J5IjpbMTQ1MDY2NzQ4NSwtMjA4ODc0NjYxMiw3Mz
 A5OTgxMTZdfQ==
 -->
