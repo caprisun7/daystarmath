@@ -25,11 +25,11 @@ $$
 y &= \frac{2}{3}x + b \\
 2 &= -\frac{3}{2}(2) + b \\
 2 &= -3 + b \\
-5 &= b
-y
+5 &= b \\
+y &= \frac{2}{3}x+5
 \end{align*}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDY2NzQ4NSwtMjA4ODc0NjYxMiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjI2NjcxNTE1LC0yMDg4NzQ2NjEyLDczMD
+k5ODExNl19
 -->
